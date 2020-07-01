@@ -1,5 +1,5 @@
 # You can add comments to these files with #
-d	  ~/Documents
+d	  ~/Documentos
 D	  ~/Downloads
 h	  ${XDG_CONFIG_HOME:-~/}
 m	  ~/Music
@@ -8,4 +8,6 @@ vv	~/Videos
 cf	${XDG_CONFIG_HOME:-$HOME/.config}
 cac ${XDG_CACHE_HOME:-$HOME/.cache}
 mn	/mnt
+src	~/.local/src
+vmw	~/Archives/vimwiki
 sc 	~/.local/bin

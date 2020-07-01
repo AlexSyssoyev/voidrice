@@ -5,7 +5,7 @@
 
 ping -q -c 1 1.1.1.1 > /dev/null || exit
 
-/usr/bin/notify-send "📰 Updating RSS feeds..."
+#/usr/bin/notify-send -t 3000 "📰 Actualizando RSS Feeds..."
 
 pgrep -f newsboat$ && /usr/bin/xdotool key --window "$(/usr/bin/xdotool search --name newsboat)" R && exit
 
@@ -14,4 +14,4 @@ pkill -RTMIN+6 "${STATUSBAR:-dwmblocks}"
 /usr/bin/newsboat -x reload
 rm -f /tmp/newsupdate
 pkill -RTMIN+6 "${STATUSBAR:-dwmblocks}"
-/usr/bin/notify-send "📰 RSS feed update complete."
+/usr/bin/notify-send -t 3000 "📰 Actualización de RSS Feeds completa."

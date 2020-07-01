@@ -1,4 +1,42 @@
-http://lukesmith.xyz/rss.xml
-https://notrelated.libsyn.com/rss
-https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "~Luke Smith (YouTube)"
-https://www.archlinux.org/feeds/news/ "tech"
+"-------------------General-----------------------------------------"
+"query:REDDIT:tags # \"reddit\" and unread = \"yes\""
+"query:ENTERTAINMENT:tags # \"Entertainment\" and unread = \"yes\""
+"query:EDUCATIONAL:tags # \"Educational\" and unread = \"yes\""
+"query:GITHUB:tags # \"github\" and unread = \"yes\""
+"query:OTROS-TECH:tags # \"tech\" and unread = \"yes\""
+"--------------------Lists------------------------------------------"
+"query:░░░░Entertainment youtube░░░░:tags # \"Entertainment\""
+"query:░░░░Reddit news░░░░:tags # \"reddit\""
+"query:░░░░Github░░░░:tags # \"github\""
+"query:░░░░Educational youtube░░░░:tags # \"Educational\""
+"query:░░░░Otros blogs y tech░░░░:tags # \"tech\""
+
+
+
+
+
+
+
+http://lukesmith.xyz/rss.xml "tech" "!hidden"
+https://www.archlinux.org/feeds/news/ "tech" "!hidden"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "Educational" "~Luke Smith"  "!hidden"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCzQUP1qoWDoEbmsQxvdjxgQ "Educational" "~Joe Rogan Experience" "!hidden"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCBIt1VN5j37PVM8LLSuTTlw "Educational" "~Improvement pill" "!hidden"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCLrI-dOLyDbRnPyUeWadsOg "Educational" "~Elliot Hulse" "!hidden"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0ASolYU_Yh3yShLFQC0stg "Educational" "~Elliot Hulse Strength" "!hidden"
+
+https://github.com/AlexSyssoyev.atom "github" "~AlexSyssoyev github" "!hidden"
+https://github.com/LukeSmithxyz.atom "github" "~Luke Smith github" "!hidden"
+
+https://www.reddit.com/r/Stoicism/.rss "reddit" "~r/Stoicism" "!hidden"
+https://www.reddit.com/r/NoFap/.rss "reddit" "~r/NoFap" "!hidden"
+https://www.reddit.com/r/getdisciplined/.rss "reddit" "~r/GetDisciplined" "!hidden"
+https://www.reddit.com/r/BecomingTheIceman/.rss "reddit" "~r/BecomingTheIceman" "!hidden"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCWjzIoNgSM1g9O6k4Cd4cyQ "Entertainment" "!hidden"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCNffeiM0eWFiYpvmTfwYjIg "Entertainment" "!hidden"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCdRx6BjmUwdP7pfGIYPRHaQ "Entertainment" "!hidden"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC42VsoDtra5hMiXZSsD6eGg "Entertainment" "!hidden"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC-lHJZR3Gqxm24_Vd_AJ5Yw "Entertainment" "!hidden"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCAB3buuWw0yMx9ca_rWwQiA "Entertainment" "!hidden"
