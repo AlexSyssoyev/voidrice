@@ -2,7 +2,7 @@
 
 # Syncs repositories and downloads updates, meant to be run as a cronjob.
 <<<<<<< HEAD
-ping -q -c 1 1.1.1.1 > /dev/null || exit
+ping -q -c 1 example.org > /dev/null || exit
 #su kredik -c 'notify-send -t 3000 "📦 Sincronización del repositorio" "Buscando actualizaciones de los paquetes..."'
 pacman -Syyuw --noconfirm || su kredik -c 'notify-send -t 3000 "Error descargando los paquetes.
 
