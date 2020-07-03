@@ -1,0 +1,7 @@
+#!/bin/sh
+
+
+[ "$(stat -c %y .cache/nofap >/dev/null | cut -d' ' -f1 )" != "$(date '+%Y-%m-%d')" ] &&
+	curl -Ls 'https://tracker.nofap.com/xf/badge/294204' > ~/.cache/nofap
+
+grep Days ~/.cache/nofap | awk -F'>' '{print $5}' | sed "s/tspan// ; s/<\/// ; s/ Days//" | awk '{print "🧔"$1}'
