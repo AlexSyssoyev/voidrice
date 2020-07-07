@@ -37,7 +37,7 @@ alias \
 	xq="xbps-query" \
 	z="zathura" \
 	srv="sudo systemctl" \
-	pusho="git add . && git commit -m 'auto push' && git push origin master" \
+	pusho="git add . && git commit -m 'auto push' && git push own master" \
 
 alias \
 	magit="nvim -c MagitOnly" \
