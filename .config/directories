@@ -3,10 +3,10 @@ cac ${XDG_CACHE_HOME:-$HOME/.cache}
 cf  ${XDG_CONFIG_HOME:-$HOME/.config}
 D   ${XDG_DOWNLOAD_DIR:-$HOME/Downloads}
 d   ${XDG_DOCUMENTS_DIR:-$HOME/Documentos}
-src ${XDG_SOURCE_DIR: -$HOME/.local/src}
+src ${XDG_SOURCE_DIR:-$HOME/.local/src}
 h   ${XDG_CONFIG_HOME:-$HOME}
 m   ${XDG_MUSIC_DIR:-$HOME/Music}
-vmw ${XDG_VIMWIKI_DIR: -$HOME/Archives/vimwiki}
+vmw ${XDG_VIMWIKI_DIR:-$HOME/Archives/vimwiki}
 mn  /mnt
 pp  ${XDG_PICTURES_DIR:-$HOME/Pictures}
 sc  ~/.local/bin
