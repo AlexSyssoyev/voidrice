@@ -16,6 +16,7 @@ http://lukesmith.xyz/rss.xml "tech" "!hidden"
 https://www.archlinux.org/feeds/news/ "tech" "!hidden"
 https://howtobeastoic.wordpress.com/feed/ "stoicism" "!hidden"
 https://howtobeastoic.wordpress.com/comments/feed/ "stoicism" "!hidden"
+https://videos.lukesmith.xyz/feeds/videos.xml?videoChannelId=2 "tech" "!hidden" "LukeSmith peertube"
 
 https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "Educational" "~Luke Smith"  "!hidden"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCzQUP1qoWDoEbmsQxvdjxgQ "Educational" "~Joe Rogan Experience" "!hidden"

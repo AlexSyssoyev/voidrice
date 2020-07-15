@@ -4,7 +4,7 @@ cf  ${XDG_CONFIG_HOME:-$HOME/.config}
 D   ${XDG_DOWNLOAD_DIR:-$HOME/Downloads}
 d   ${XDG_DOCUMENTS_DIR:-$HOME/Documentos}
 src ${XDG_SOURCE_DIR:-$HOME/.local/src}
-h   ${XDG_CONFIG_HOME:-$HOME}
+h   $HOME
 m   ${XDG_MUSIC_DIR:-$HOME/Music}
 vmw ${XDG_VIMWIKI_DIR:-$HOME/Archives/vimwiki}
 mn  /mnt
