@@ -1,6 +1,6 @@
 #!/bin/sh
 
-filter() { mpc | sed "/^volume:/d;s/\\&/&amp;/g;s/\\[paused\\].*/⏸/g;/\\[playing\\].*/d" | sed "s/\&amp;/\&/g" | paste -sd ' ';}
+filter() { mpc | rev | cut -d'-' -f1,2 | rev | sed "/^volume:/d;s/\\&/&amp;/g" | cut -c1-43| sed "s/\\[paused\\].*/⏸/g;/\\[playing\\].*/d" | sed "s/\&amp;/\&/g" | paste -sd ' ';}
 
 pidof -x mpdup >/dev/null 2>&1 || mpdup >/dev/null 2>&1 &
 
