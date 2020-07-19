@@ -14,6 +14,7 @@
 
 http://lukesmith.xyz/rss.xml "tech" "!hidden"
 https://www.archlinux.org/feeds/news/ "tech" "!hidden"
+https://artixlinux.org/feed.php "tech" "!hidden"
 https://howtobeastoic.wordpress.com/feed/ "stoicism" "!hidden"
 https://howtobeastoic.wordpress.com/comments/feed/ "stoicism" "!hidden"
 https://videos.lukesmith.xyz/feeds/videos.xml?videoChannelId=2 "tech" "!hidden" "LukeSmith peertube"
