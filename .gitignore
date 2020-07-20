@@ -27,6 +27,7 @@
 !.config/mpv/scripts/mpvSockets
 !.config/ncmpcpp/*
 !.config/newsboat/*
+.config/newsboat/urls
 !.config/nvim/init.vim
 !.config/polybar/*
 !.config/ranger/*
