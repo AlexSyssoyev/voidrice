@@ -23,7 +23,7 @@
     # Sort messages by urgency.
     sort = yes
 
-    idle_threshold = 120
+    idle_threshold = 0
     font = Monospace 14
     line_height = 0
     markup = full
