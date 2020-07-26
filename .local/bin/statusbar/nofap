@@ -8,7 +8,7 @@ days="$(grep Days ~/.cache/nofap | awk -F'>' '{print $5}' | sed "s/tspan// ; s/<
 printf "🧔$days"
 case $BLOCK_BUTTON in
 	1) setsid -f brave https://forum.nofap.com/index.php;;
-	2) curl -Ls 'https://tracker.nofap.com/xf/badge/294204' > ~/.cache/nofap ; pkill -RTMIN+21 dwmblocks ;;
+	2) curl -Ls 'https://tracker.nofap.com/xf/badge/294204' > ~/.cache/nofap && pkill -RTMIN+21 dwmblocks ;;
 	3) notify-send "🐻 Nofap module" "\- La racha comenzo el 20/05/2020.
 - Click central para actualizar el archivo.
 - Quedan $((1095-$days)) Dias para alcanzar los 3 años. " ;;
