@@ -14,6 +14,7 @@ video/x-matroska=video.desktop
 x-scheme-handler/lbry=lbry.desktop
 inode/directory=file.desktop
 message/rfc822=userapp-Thunderbird-8IJYO0.desktop
+application/uproject=com.epicgames.UnrealEngineEditor.desktop
 
 [Added Associations]
 x-scheme-handler/mailto=userapp-Thunderbird-8IJYO0.desktop;
