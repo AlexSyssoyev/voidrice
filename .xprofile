@@ -26,3 +26,4 @@ redshift -l -34.48:-57.59 -t 5700:3500 -g 0.8 -m randr -v &
 sleep 5 && toggle mouse &
 #sleep 5 && toggle audio &
 caffeine &
+ddclient &

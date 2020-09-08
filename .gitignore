@@ -7,6 +7,7 @@
 !.xprofile
 !.zprofile
 !.local/bin/*
+!.local/bin/toggle
 !.local/share/applications/*
 !.local/share/larbs/*
 !.local/share/bg
