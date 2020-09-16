@@ -1,0 +1,12 @@
+#!/bin/sh
+
+ [ "$(xmodmap -pp | sed -n 5p | cut -d' ' -f23)" = 3 ] && echo "🖱" || echo "🖱"
+
+case $BLOCK_BUTTON in
+	#1) setsid -f "$TERMINAL" -e pavucontrol ;;
+	3) notify-send "Mouse State" "🖱 Mouse setup
+- Scroll to change states" ;;
+	4) toggle mouse; pkill -RTMIN+7 dwmblocks ;;
+	5) toggle mouse; pkill -RTMIN+7 dwmblocks ;;
+	6) "$TERMINAL" -e "$EDITOR" "$0" ;;
+esac
