@@ -36,14 +36,10 @@ alias \
 	xr="sudo xbps-remove -R" \
 	xq="xbps-query" \
 	z="zathura" \
-	srv="sudo systemctl" \
-	pusho="git add . && git commit -m 'auto push' && git push own master" \
+	pusho="git add . && git commit -m 'auto push' && git push origin master"
 
 alias \
 	magit="nvim -c MagitOnly" \
 	ref="shortcuts >/dev/null; source ${XDG_CONFIG_HOME:-$HOME/.config}/shortcutrc ; source ${XDG_CONFIG_HOME:-$HOME/.config}/zshnameddirrc" \
 	weath="less -S ${XDG_DATA_HOME:-$HOME/.local/share}/weatherreport" \
-	tmux="tmux -f ${XDG_CONFIG_HOME:-$HOME/.config}/tmux/tmux.conf" \
-
-alias \
-	UE4="/home/razor/Downloads/UnrealEngine/Engine/Binaries/Linux/UE4Editor -opengl" \
+	tmux="tmux -f ${XDG_CONFIG_HOME:-$HOME/.config}/tmux/tmux.conf"
