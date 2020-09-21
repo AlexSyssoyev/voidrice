@@ -5,6 +5,6 @@ audiostate=$(pactl list sinks | grep "Puerto Activo" | sed 's/.* //')
 
 
 case "$1" in
-	audio) { [ "$audiostate" = "analog-output-headphones" ] && pactl set-sink-port $sink analog-output-speaker && pkill -RTMIN+10 dwmblocks && notify-send "Speaker selected."; } || { pactl set-sink-port $sink analog-output-headphones && pkill -RTMIN+10 dwmblocks && notify-send "Headphones selected."; } ;;
+	audio) { [ "$audiostate" = "analog-output-headphones" ] && pactl set-sink-port $sink analog-output-speaker && pkill -RTMIN+10 dwmblocks && notify-send "Speaker selected."; } || { pactl set-sink-port $sink analog-output-headphones && pkill -RTMIN+10 dwmblocks && notify-send "Headphones selected."; } || pulseaudio -k && pulseaudio -D;;
 	mouse) { [ "$mousestate" = 3 ] && xmodmap -e "pointer = 1 2 3" && notify-send "Righthand mouse selected."; }|| { xmodmap -e "pointer = 3 2 1" && notify-send "Lefthand mouse selected."; } ;;
 esac

@@ -3,7 +3,7 @@
 
 [ "$(stat -c %y ~/.cache/nofap >/dev/null | cut -d' ' -f1 )" != "$(date '+%Y-%m-%d')" ] && curl -Ls 'https://tracker.nofap.com/xf/badge/294204' > ~/.cache/nofap
 
-days="$(grep Days ~/.cache/nofap | awk -F'>' '{print $5}' | sed "s/tspan// ; s/<\/// ; s/ Days//")"
+days="$(grep Day ~/.cache/nofap | awk -F'>' '{print $5}' | sed "s/tspan// ; s/<\/// ; s/ Day//" || grep Day ~/.cache/nofap | awk -F'>' '{print $5}' | sed "s/tspan// ; s/<\/// ; s/ Days//" )"
 
 printf "🧔$days"
 case $BLOCK_BUTTON in
