@@ -1,10 +1,11 @@
 #!/bin/sh
 mousestate=$(xmodmap -pp | awk 'FNR == 5 {print $2}')
-sink=$(pactl list sinks | grep Sink | sed 's/.*\#//')
+sink=$(pactl list sinks | grep Destino | sed 's/.*\#//')
 audiostate=$(pactl list sinks | grep "Puerto Activo" | sed 's/.* //')
+volume=$(pamixer --get-volume-human | sed 's/%//')
 
 
 case "$1" in
-	audio) { [ "$audiostate" = "analog-output-headphones" ] && pactl set-sink-port $sink analog-output-speaker && pkill -RTMIN+10 dwmblocks && notify-send "Speaker selected."; } || { pactl set-sink-port $sink analog-output-headphones && pkill -RTMIN+10 dwmblocks && notify-send "Headphones selected."; } || pulseaudio -k && pulseaudio -D;;
+	audio) { [ "$audiostate" = "analog-output-headphones" ] && pamixer --set-volume 0 && pactl set-sink-port $sink analog-output-speaker && pamixer --set-volume $volume && pkill -RTMIN+10 dwmblocks && notify-send "Speaker selected."; } || { pamixer --set-volume 0 && pactl set-sink-port $sink analog-output-headphones && pamixer --set-volume $volume && pkill -RTMIN+10 dwmblocks && notify-send "Headphones selected."; } ;;
 	mouse) { [ "$mousestate" = 3 ] && xmodmap -e "pointer = 1 2 3" && notify-send "Righthand mouse selected."; }|| { xmodmap -e "pointer = 3 2 1" && notify-send "Lefthand mouse selected."; } ;;
 esac
