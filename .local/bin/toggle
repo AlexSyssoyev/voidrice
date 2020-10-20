@@ -12,7 +12,7 @@ case "$1" in
 		notify-send "Speaker selected."; } ||
 				{ 	pactl set-sink-port $sink analog-output-headphones &&
 					pkill -RTMIN+10 dwmblocks &&
-					notify-send "Headphones selected."; } || { killall pulseaudio; pulseaudio --start; } ;;
+					notify-send "Headphones selected."; } ;; #|| { killall pulseaudio; pulseaudio --start; } ;;
 
 	mouse) { [ "$mousestate" = 3 ] && xmodmap -e "pointer = 1 2 3" && notify-send "Righthand mouse selected."; }|| { xmodmap -e "pointer = 3 2 1" && notify-send "Lefthand mouse selected."; } ;;
 esac
