@@ -1,0 +1,413 @@
+sw_volume: 100
+audio_device_state:1:pulse
+audio_device_state:1:Visualizer feed
+state: play
+current: 131
+time: 118.430000
+random: 1
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Mood/Badass/78 Rpm - Blood Runs Red-KTCyPVEa98g.opus
+1:Mood/Badass/78RPM - Best Friend To Enemy-TNX0ZSMjUjo.opus
+2:Mood/Badass/Adam Jensen - Friend of the Devil-IvunSNXhIxE.opus
+3:Mood/Badass/Adam Jensen - Let It Bleed-3XrNhTQA84Q.opus
+4:Mood/Badass/Adam Jensen - The Hunter-_pgWkHHq_Kw.opus
+5:Mood/Badass/Alevela - The Madness-WKjvQGz3aKU.opus
+6:Mood/Badass/Black Hydra - My Eyes Are Gold-O8OKcuFcyD0.opus
+7:Mood/Badass/Blacktop Mojo - Next Bullet-tzb39sRKLpc.opus
+8:Mood/Badass/Blacktop Mojo - Trouble On The Rise-HLvHcBHFLEc.opus
+9:Mood/Badass/Bonez - Dead Man-Oz-uksVJ-6c.opus
+10:Mood/Badass/Brothers & Sisters - I am Champion-SnRJgXyvvbM.m4a
+11:Mood/Badass/Chris Leamy - Shoot to Thrill-3h3Fqd2aqP0.opus
+12:Mood/Badass/Chuxx Morris - Feelin' Good-WGYEb82LKqk.opus
+13:Mood/Badass/Chuxx Morris - Victorious-9caXF3nmJ1Y.opus
+14:Mood/Badass/Clear Blue Fire - Are You Ready For This-5dewZiNYKfU.opus
+15:Mood/Badass/Clear Blue Fire - Here We Go-lGWZv1G5d6U.opus
+16:Mood/Badass/Clear Blue Fire - It's About To Go Down-paQzyuiAu_k.opus
+17:Mood/Badass/Clear Blue Fire - Nothin' Like This-voQOCUHcRpw.opus
+18:Mood/Badass/Clear Blue Fire - Rise Up-hNZiLUylrqU.opus
+19:Mood/Badass/Clear Blue Fire - The Fire-Q74eJ-FoChU.opus
+20:Mood/Badass/Club Danger - All We Do is Win-qXkA1yVM7tg.m4a
+21:Mood/Badass/Club Danger - Beast Mode-Oj3sbAnTDLo.opus
+22:Mood/Badass/Club Danger - Living Legend-aexGvZ8RIhY.m4a
+23:Mood/Badass/Club Danger - The Trouble-vAKl2bb2IoA.opus
+24:Mood/Badass/Club Danger – Ready to Play-h05OPp6n75k.opus
+25:Mood/Badass/Defragmented - The Punished-tIDOBPgXUJk.opus
+26:Mood/Badass/Dubkiller & Andy Marsh - The Future-nZ87L5ErYzA.opus
+27:Mood/Badass/Erick Serna and The Killing Floor - Hold Back the Flood-j7rMX50ljtY.m4a
+28:Mood/Badass/Future Royalty - Going for Greatness-4eCUP2FhB4Y.opus
+29:Mood/Badass/Future Royalty - Set Me On Fire-2VUX__boKeY.opus
+30:Mood/Badass/Ganyos - Cage-W5zIqZFTCGI.m4a
+31:Mood/Badass/Ganyos - Rise Up-wIDk-P3kf4I.opus
+32:Mood/Badass/Gold Coin - The New Legends-DKxBC5l9amk.m4a
+33:Mood/Badass/Graffiti Ghosts - I'm Coming For You-nZNqpmkKtts.opus
+34:Mood/Badass/Graffiti Ghosts - Last Man Standing-VmMGWbZPKLU.m4a
+35:Mood/Badass/IOWA the band - Our Game Now-vegZoh1nisM.opus
+36:Mood/Badass/IOWA the band - Victory-fV0N9qkoGM0.m4a
+37:Mood/Badass/Jailbreakers Ltd - I Like Trouble-_RmUYUzNnTY.opus
+38:Mood/Badass/Kasano - Pull It Together-VAY5LZpm3ZY.opus
+39:Mood/Badass/Kid Dean - Can't Stop Me Now-wmgF0AuYAQA.opus
+40:Mood/Badass/Knives At Sea - Nowhere But Up-1X6pbW3lsto.opus
+41:Mood/Badass/Knives At Sea - Unstoppable-qixjMBAthxs.m4a
+42:Mood/Badass/Koethe - Wild Lands-L9Q64cBLHKU.opus
+43:Mood/Badass/Matt Beilis - Walk Like Giants-dCESE88IuWw.opus
+44:Mood/Badass/Mawr - The Legend Begins (ft. Silverberg)-5Tus-1df3_w.m4a
+45:Mood/Badass/MAXO - Dreamer-4mU6JPeh_PE.opus
+46:Mood/Badass/Native 51 - Dynamite-LhiNK2AP1Gw.m4a
+47:Mood/Badass/Native 51 - Even the Score-2uVrDy9DPF0.m4a
+48:Mood/Badass/Oh The Larceny - Another Level-70dDSZQYqAs.opus
+49:Mood/Badass/Outskrts - Born For This-okslhG66IoA.opus
+50:Mood/Badass/Outskrts - Ready To Go-ckheGTxtp6Q.m4a
+51:Mood/Badass/Rakefire - Unstoppable-eLemaMKBlt4.opus
+52:Mood/Badass/Rosenfeld - stfu-Q9gK94N8pSc.opus
+53:Mood/Badass/Royal Deluxe - I'm A Wanted Man-vSslZRvOipI.opus
+54:Mood/Badass/Saysh - Let It Begin-d3duCd3l1HY.opus
+55:Mood/Badass/Silverberg - Reaper (ft. Jordan Frye)-jbOOliOUbxI.m4a
+56:Mood/Badass/Silverberg - Show Me The Money (ft. Jason Walker)-lg6dtFQmQBs.m4a
+57:Mood/Badass/Sleeping Wolf - Heroes-tgZfWm9QyEo.opus
+58:Mood/Badass/Sun Heat - Champion-4u4QONxrtm8.opus
+59:Mood/Badass/Sun Heat - Let's Go-FDvrRb1emvA.opus
+60:Mood/Badass/The Hot Damns - Wicked Games-MvRG4jFdJCY.opus
+61:Mood/Badass/The North Panics - We Won't Surrender-5U3Z8NSja7E.m4a
+62:Mood/Badass/The Phantoms - Invincible-8-GADrKTNhU.opus
+63:Mood/Badass/The Phantoms - Made For This-RxoR6jHjL2w.opus
+64:Mood/Badass/The Phantoms - Making of a Legend-jtXdvO7mwpA.opus
+65:Mood/Badass/The Phantoms - Nothin' Like This-aK4cYmfodwU.m4a
+66:Mood/Badass/The Phantoms - See It To Believe It-heLZ5HdHhZM.opus
+67:Mood/Badass/The Phantoms - Stronger (ft. Black Violin)-i9CcJkogDNI.opus
+68:Mood/Badass/The Prizefighter - Goin' for Gold (ft. An Army of One)-St2gFKQnH_w.opus
+69:Mood/Badass/Tim Halperin - Never Backing Down-cZbJRZ0GEdI.opus
+70:Mood/Badass/UNSECRET - Born To Be Champions (ft. Sam Tinnesz)-czO-CSIxyH0.opus
+71:Mood/Badass/UNSECRET - Game Face (ft. Sam Tinnesz)-t0q9UPL0ISo.m4a
+72:Mood/Badass/UNSECRET - Jungle Out There (ft. Sam Tinnesz)-ngCUMl_uYIg.opus
+73:Mood/Badass/Valley Of Wolves - Chosen One-yYm8mKbGRz0.opus
+74:Mood/Badass/Valley Of Wolves - Take It All-yWY_GjZfWqU.opus
+75:Mood/Badass/Valley Of Wolves - We Are Legends-qAzb6mIROtg.opus
+76:Mood/Badass/Viv and the Revival - Savior-Ot3s5pliJaQ.opus
+77:Mood/Badass/Volunteer - Make It Count-kz14xCrv3Y0.opus
+78:Mood/Badass/War_Hall - All This Power-lmKlOEOyUhU.opus
+79:Mood/Badass/WAR_HALL - I'm Trouble-ochHGuZ9tiw.m4a
+80:Mood/Badass/Willyecho - Monster-X-IUMwNgd_o.opus
+81:Mood/Badass/Willyecho - Welcome To The Fire-x0fIBGxWFaU.opus
+82:Mood/Badass/With Lions - Make You Feel-z-MaBe6b5uo.m4a
+83:Mood/Badass/Zeeco - We See Red-Hmha4eHzBX8.opus
+84:Mood/Badass/Ziggy Sullivin - I Ain't Gonna Give Up-sQzfLpCN7yg.opus
+85:Mood/Badass/Ziggy Sullivin - Rise Up-q_B82C4-7uE.opus
+86:Mood/Electrifying/3 One Oh - Get It Now-QiAw-BS0DiQ.opus
+87:Mood/Electrifying/3 One Oh - Rebels-LA29Syzn8i4.opus
+88:Mood/Electrifying/3 One Oh - She's Got It All-HRyQ5Rh4bPQ.opus
+89:Mood/Electrifying/Alaina Cross - Wild One-JB2eyBsFgBM.m4a
+90:Mood/Electrifying/Alaina Cross x Vyceroy - Leave It On The Dance Floor-5A5G_UyVY-w.opus
+91:Mood/Electrifying/Brenne - Comin' for You-WnAQT1KMZqc.opus
+92:Mood/Electrifying/Chuxx Morris - Individual-ffGSWQFcJPk.opus
+93:Mood/Electrifying/Clear Blue Fire - OHH MY MY-WXNlot4j9nI.opus
+94:Mood/Electrifying/Confetti - Hot-_CLm59WAAhY.opus
+95:Mood/Electrifying/DAVIS - Smash-3rEEdRMwMsM.opus
+96:Mood/Electrifying/DAVIS - Underdog-UMkcdVk-fLI.opus
+97:Mood/Electrifying/Emily Bell - Can't Talk Back-4hOh_iGn-ys.m4a
+98:Mood/Electrifying/Endway - Go Fast-0lx64i9VWPE.opus
+99:Mood/Electrifying/Eric Lives Here - MVP-cbpbbTZIsOg.opus
+100:Mood/Electrifying/Filmspeed - Just My Luck-jwdFysm9J7Y.opus
+101:Mood/Electrifying/GoldFord - Style Like You-GWzkwAjsLAM.opus
+102:Mood/Electrifying/Jamie Lono - All About It-2Ml9B9Tjdb8.opus
+103:Mood/Electrifying/Jamie Lono - Ladies and Gentleman-gw2Ty88E4Ng.opus
+104:Mood/Electrifying/Jamie Lono - Prove It-3bWvd0USPtU.opus
+105:Mood/Electrifying/Knives At Sea - I Got This Feeling (ft. Brittany PFantz)-nh2CKrVMgnI.opus
+106:Mood/Electrifying/Lady Bri - Better Than Ever-YGutklWmfjY.opus
+107:Mood/Electrifying/Louis II  - King of The Mountain-nfQPM4I8tN8.opus
+108:Mood/Electrifying/Louis II - Ready to Go-_Xa9t6hf27k.m4a
+109:Mood/Electrifying/Mawr - For The Thrill-eQt0ivcGzH0.m4a
+110:Mood/Electrifying/Model Citizen - Feels So Good-5r3uLExVSJg.opus
+111:Mood/Electrifying/Nevada Wild - Startin a War-1BqgUVdi2xg.opus
+112:Mood/Electrifying/No Fit State - On Your Own-DI3ejq_ZELo.opus
+113:Mood/Electrifying/Oh The Larceny - Incredible-8_4gZa61yPE.opus
+114:Mood/Electrifying/Oh The Larceny - Money-WW6bwB6jBFk.m4a
+115:Mood/Electrifying/Oh The Larceny - This Is It-_hNy-QbC00Q.opus
+116:Mood/Electrifying/Oh The Larceny - Turn It Up-HXOLAkLS68M.m4a
+117:Mood/Electrifying/Outskrts - Let's Do This-8kfL01rT--Y.opus
+118:Mood/Electrifying/PrettyDeep - Like a Champion (ft. Whitney Myer)-SzXnIgeJEZs.opus
+119:Mood/Electrifying/Sonny Cleveland - Little Of Your Lovin'-70BmierWl8s.opus
+120:Mood/Electrifying/Sun Heat - Let's Get It Started-2w-_4ju9sck.opus
+121:Mood/Electrifying/Sun Heat - Welcome to the Good Life-swgr6JMYh5Q.opus
+122:Mood/Electrifying/Sun Heat - You're Gonna Love It-updxbEW_P5w.opus
+123:Mood/Electrifying/The Crutch - Keep on Risin'-ALgIg3UZlZY.opus
+124:Mood/Electrifying/The Phantoms - The Way I Like It-BMZq0oBPdkc.opus
+125:Mood/Electrifying/The Royal Foundry - Hopefully-ivL0yb_BSxE.opus
+126:Mood/Electrifying/updog - spearhead-T75XxafKeds.opus
+127:Mood/Electrifying/Valley Of Wolves - Born Bold-cCXMr7oYHsI.opus
+128:Mood/Electrifying/Valley Of Wolves - Golden Age-fgaNEfJnwLM.opus
+129:Mood/Electrifying/Valley Of Wolves - Just Began-wDgspW3bgSw.opus
+130:Mood/Electrifying/Valley Of Wolves - Keep On Keepin' On-M-cMYgI5IlI.opus
+131:Mood/Electrifying/Valley Of Wolves - Now's My Time-Qk-I-hw3N_A.opus
+132:Mood/Electrifying/Valley Of Wolves - Ready for the Fire-W44aAFmx3Lw.opus
+133:Mood/Electrifying/Valley Of Wolves - Reckless-J-MHi8uwxRA.opus
+134:Mood/Electrifying/Valley Of Wolves - Rise-_bEo50S8XFo.opus
+135:Mood/Electrifying/Valley Of Wolves - Weather Man-AAqnCz7Qc94.opus
+136:Mood/Electrifying/Will Champlin - Shake It Up-yS8gd2pkwvs.opus
+137:Mood/Electrifying/Will Champlin - Sparks-KnL5oyNoh48.opus
+138:Mood/imagine-dragons-full-album/01-demons-imagine-dragons.opus
+139:Mood/imagine-dragons-full-album/02-radioactive-imagine-dragons.opus
+140:Mood/imagine-dragons-full-album/03-its-time-imagine-dragons.opus
+141:Mood/imagine-dragons-full-album/04-on-top-of-the-world-imagine-dragons.opus
+142:Mood/imagine-dragons-full-album/05-warriors-imagine-dragons.opus
+143:Mood/imagine-dragons-full-album/06-shots-imagine-dragons.opus
+144:Mood/imagine-dragons-full-album/07-im-so-sorry-imagine-dragons.opus
+145:Mood/imagine-dragons-full-album/08-thunder-imagine-dragons.opus
+146:Mood/imagine-dragons-full-album/09-walking-the-wire-imagine-dragons.opus
+147:Mood/imagine-dragons-full-album/10-whatever-it-takes-imagine-dragons.opus
+148:Mood/imagine-dragons-full-album/11-believer-imagine-dragons.opus
+149:Mood/imagine-dragons-full-album/12-next-to-me-imagine-dragons.opus
+150:Mood/imagine-dragons-full-album/13-bad-liar-imagine-dragons.opus
+151:Mood/imagine-dragons-full-album/14-natural-imagine-dragons.opus
+152:Mood/imagine-dragons-full-album/15-zero-imagine-dragons.opus
+153:Mood/imagine-dragons-full-album/16-birds-imagine-dragons.opus
+154:Mood/Rockish/guardians-of-the-galaxy/01-come-and-get-your-love-redbone.opus
+155:Mood/Rockish/guardians-of-the-galaxy/02-i-want-you-back-the-jackson-5.opus
+156:Mood/Rockish/guardians-of-the-galaxy/03-spirit-in-the-sky-norman-greenbaum.opus
+157:Mood/Rockish/guardians-of-the-galaxy/04-hooked-on-a-feeling-bjorn-skifs-blue-swede.opus
+158:Mood/Rockish/guardians-of-the-galaxy/05-escape-the-pina-colada-song-rupert-holmes.opus
+159:Mood/Rockish/guardians-of-the-galaxy/06-ooh-child-five-stairsteps.opus
+160:Mood/Rockish/guardians-of-the-galaxy/07-aint-no-mountain-high-enough-marvin-gaye-tammi-terrell.opus
+161:Mood/Rockish/guardians-of-the-galaxy/08-im-not-in-love-10-cc.opus
+162:Mood/Rockish/guardians-of-the-galaxy/09-fooled-around-and-fell-in-love-elvin-bishop.opus
+163:Mood/Rockish/guardians-of-the-galaxy/10-go-all-the-way-raspberries.opus
+164:Mood/Rockish/guardians-of-the-galaxy/11-moonage-daydream-david-bowie.opus
+165:Mood/Rockish/guardians-of-the-galaxy/12-cherry-bomb-the-runaways.opus
+166:Mood/Rockish/guardians-of-the-galaxy/13-wham-bam-shangalang-silver.opus
+167:Mood/Rockish/guardians-of-the-galaxy/14-fox-on-the-run-bc-sweet.opus
+168:Mood/Rockish/guardians-of-the-galaxy/15-mr-blue-sky-electric-light-orchestra.opus
+169:Mood/Rockish/guardians-of-the-galaxy/16-lake-shore-drive-alliotta-haynes-jeremiah.opus
+170:Mood/Rockish/guardians-of-the-galaxy/17-surrender-cheap-trick.opus
+171:Mood/Rockish/guardians-of-the-galaxy/18-father-and-son-yusuf-islam.opus
+172:Mood/Rockish/guardians-of-the-galaxy/19-the-chain-fleetwood-mac.opus
+173:Mood/Rockish/guardians-of-the-galaxy/20-come-a-little-bit-closer-jay-and-the-americans.opus
+174:Mood/Rockish/guardians-of-the-galaxy/21-brandy-youre-a-fine-girl-looking-glass.opus
+175:Mood/Rockish/guardians-of-the-galaxy/22-my-sweet-lord-george-harrison.opus
+176:Mood/Rockish/guardians-of-the-galaxy/23-flashlight-parliament.opus
+177:Mood/Rockish/guardians-of-the-galaxy/24-bring-it-on-home-to-me-sam-cooke.opus
+178:Mood/Rockish/guardians-of-the-galaxy/25-southern-nights-glen-campbell.opus
+179:Mood/Rockish/Supernatural/A Single Man Tear - Version 2 (Supernatural - 10x05)-D4ixneEEb4s.opus
+180:Mood/Rockish/Supernatural/A Single Man Tear (Supernatural 10x05)-4NlijfgAOTQ.opus
+181:Mood/Rockish/Supernatural/AC_DC - Hells Bells _ Supernatural - 3x01 (The Road So Far)-GBZCcJr0brM.opus
+182:Mood/Rockish/Supernatural/Aerosmith - Back in the Saddle (Supernatural - 6x12 - The Road So Far)-_wB6RbmUcmc.opus
+183:Mood/Rockish/Supernatural/Air Supply - I'm All Out of Love (Supernatural - 7x06)-Ek3nkhjg2N4.opus
+184:Mood/Rockish/Supernatural/Alice in Chains - Man in the Box (Supernatural - 12x06)-8cTa1fwkCfo.opus
+185:Mood/Rockish/Supernatural/Alice in Chains - Rooster (Supernatural - 2x19)-b6JNg2aGLCQ.opus
+186:Mood/Rockish/Supernatural/Allman Brothers Band - Please Call Home (Supernatural - 14x08)-WQuQwitmpho.opus
+187:Mood/Rockish/Supernatural/AllMan Brothers Band - Ramblin' Man _ Supernatural - 1x01-zFqD28jENBI.opus
+188:Mood/Rockish/Supernatural/Anya Marina - Move You (Supernatural - 5x08)-WDT9UsS3Xu0.opus
+189:Mood/Rockish/Supernatural/April Wine - Bad Boys (Supernatural - 12x01 - The Road So Far)-lNHOmb9fxuo.opus
+190:Mood/Rockish/Supernatural/ASIA - Heat of the Moment _ Supernatural - 3x11-Qv7JKAL765M.opus
+191:Mood/Rockish/Supernatural/Atlanta Rhythm Section - Imaginary Lover (Supernatural - 10x01)-T32fT3ClEgU.opus
+192:Mood/Rockish/Supernatural/B.B King - Don't Answer the Door (Supernatural - 11x20)-muDFkX_isDU.opus
+193:Mood/Rockish/Supernatural/B.J. Thomas - Raindrops Keep Falling On My Head (Supernatural - 14x17)-WlWdMKTKJko.opus
+194:Mood/Rockish/Supernatural/Bachman Turner Overdrive - Let It Drive (Supernatural - 14x07)-i1re-3U3u_s.opus
+195:Mood/Rockish/Supernatural/Bachman Turner Overdrive - Roll On Down the Highway (Supernatural - 12x06)-DlaDALulixk.opus
+196:Mood/Rockish/Supernatural/Bachman Turner Overdrive - You Ain't Seen Nothing Yet _ Supernatural - 3x01-nlmLP4OwO0g.opus
+197:Mood/Rockish/Supernatural/Bad Company - Crazy Circles _ Supernatural - 3x07-TWGNdoag-Ko.opus
+198:Mood/Rockish/Supernatural/Bad Company - Ready for Love _ Supernatural - 4x10-85bx3816aIs.opus
+199:Mood/Rockish/Supernatural/Bad Company - She Brings Me Love _ Supernatural - 1x13-j6LOE3E4ptU.opus
+200:Mood/Rockish/Supernatural/Beck, Bogert & Appice - Superstition (Supernatural - 5x05)-Why68IUcI_s.opus
+201:Mood/Rockish/Supernatural/Bee Gees - Staying Alive (Supernatural - 14x06)-riisOYsal_w.opus
+202:Mood/Rockish/Supernatural/Bell Biv DeVoe - Poison (Supernatural - 7x18)-r5486pxP2P8.m4a
+203:Mood/Rockish/Supernatural/Big Jack Johnson - I Wanna Know (Supernatural - 11x04)-dfGjR_99V50.opus
+204:Mood/Rockish/Supernatural/Billy Squier - Lonely is the Night _ Supernatural - 4x02 (The Road So Far)-pdr4wH0y_k4.opus
+205:Mood/Rockish/Supernatural/Black Sabbath - Solitude (Supernatural- 12x01)-2nyFGV16r8Q.opus
+206:Mood/Rockish/Supernatural/Black Toast Music - What a Way to Go _ Supernatural - 1x03-64Fqj7hMnno.opus
+207:Mood/Rockish/Supernatural/Blakwall - Knockin' On Heaven's Door (Supernatural - Believe Trailer)-YIwcZutik8s.opus
+208:Mood/Rockish/Supernatural/Blind Faith - Can't Find My Way Home (Supernatural - 9x23)-0H_UthO0JrE.opus
+209:Mood/Rockish/Supernatural/Blondie - One Way or Another (Supernatural - 6x17)--RVB3ZwDP6w.opus
+210:Mood/Rockish/Supernatural/Blue Oyster Cult - Burnin' for You _ Supernatural - 1x17-YpeEgy8K7aQ.opus
+211:Mood/Rockish/Supernatural/Blue Oyster Cult - Don't Fear the Reaper _ Supernatural - 1x12-GiUNYgva-GM.opus
+212:Mood/Rockish/Supernatural/Blue Oyster Cult - Fire of Unknown Origin _ Supernatural - 1x17-xp_UadA0LAM.opus
+213:Mood/Rockish/Supernatural/Bob Seger  - Till It Shines (Supernatural - 14x13)-wNjyF4E74zg.opus
+214:Mood/Rockish/Supernatural/Bob Seger - Beautiful Loser (Supernatural - 6x01 - The Road So Far)-rUKmZQn5DFY.opus
+215:Mood/Rockish/Supernatural/Bob Seger - Katmandu _ Supernatural - 8x10 (The Road So Far)-GhBvtey8aUg.opus
+216:Mood/Rockish/Supernatural/Bob Seger - Night Moves (Supernatural 11x04)-yoFUh8gxRO0.opus
+217:Mood/Rockish/Supernatural/Bob Seger - Rock & Roll Never Forgets (Supernatural - 5x12)-5jxDzcnCVAA.opus
+218:Mood/Rockish/Supernatural/Bob Seger - The Famous Final Scene (Supernatural - 15x01 - The Road So Far)--dsv2kjmrmE.opus
+219:Mood/Rockish/Supernatural/Bob Seger - Travelin' Man (Supernatural - 10x06)-UCfhoRAVb7I.opus
+220:Mood/Rockish/Supernatural/Bon Jovi - Wanted Dead Or Alive _ Supernatural - 3x16-kjwBLDneNso.opus
+221:Mood/Rockish/Supernatural/Bonjah - Honey (Supernatural - 10x01)-HPPutX_Xoyg.opus
+222:Mood/Rockish/Supernatural/Boston - Don't Look Back (Supernatural - 2x22)-6ouEmAFiI6I.opus
+223:Mood/Rockish/Supernatural/Boston - Foreplay_Long Time (Supernatural - 2x21 - The Road So Far)-Q0xM8X6XzlA.opus
+224:Mood/Rockish/Supernatural/Boston - Peace of Mind _ Supernatural - 1x07-S0huauQ8Tp4.opus
+225:Mood/Rockish/Supernatural/Bread - Guitar Man (Supernatural - 11x04)-CEYzPdR58X8.opus
+226:Mood/Rockish/Supernatural/Brian Tichy - Chaos Surrounds You (Supernatural - 2x08)-BQuO61oHWDg.opus
+227:Mood/Rockish/Supernatural/Brian Wilson - Good Vibrations (Supernatural - 11x20)-CUzH1_ipfB0.opus
+228:Mood/Rockish/Supernatural/Carry On My Wayward Son (Supernatural - 10x05)-CwTyyrohztk.opus
+229:Mood/Rockish/Supernatural/Cheap Trick - Surrender (Supernatural - 2x06)-8q_itqihWa4.opus
+230:Mood/Rockish/Supernatural/Christian Kane - The House Rules (Supernatural - 15x07)-TgqDDXFGiRM.opus
+231:Mood/Rockish/Supernatural/Classic - What Cha Gonna Do (Supernatural - 1x01)-d3gylR6BE9w.m4a
+232:Mood/Rockish/Supernatural/Cousin Harley - 4 Wheels 9 Lives _ Supernatural - Season 9 Gag Reel Music-0dpTZBxwzVE.opus
+233:Mood/Rockish/Supernatural/Creedence Clearwater Revival - Bad Moon Rising (Supernatural - 1x22)-2qOdB-6j1f0.opus
+234:Mood/Rockish/Supernatural/Creedence Clearwater Revival - Lodi _ Supernatural - 1x11-Q_IBgRY5KB0.m4a
+235:Mood/Rockish/Supernatural/Creedence Clearwater Revival - Run Through the Jungle (Supernatural - 11x01 - The Road So Far)-RmmBe_res2s.opus
+236:Mood/Rockish/Supernatural/Dave Brubeck - Take Five (Supernatural - 12x08)-j_8tAkW-tF4.opus
+237:Mood/Rockish/Supernatural/David Bowie - Space Oddity (Supernatural - 6x09)-nyWStAATHXs.opus
+238:Mood/Rockish/Supernatural/Deep Purple - Smoke on the Water (Supernatural - 6x02)-NZM8y6wdqBE.opus
+239:Mood/Rockish/Supernatural/Def Leppard - Rock of Ages _ Supernatural - 5x22-WmRzzi_UX9E.m4a
+240:Mood/Rockish/Supernatural/Doris Wilson - Big Flame (Is Gonna Break My Heart in Two) (Supernatural - 13x11)-cnAnmIEtnlU.opus
+241:Mood/Rockish/Supernatural/Eagles of Death Metal - Speaking in Tongues _ Supernatural - 1x01-rx7Pv4pMPYs.m4a
+242:Mood/Rockish/Supernatural/Edith Piaf - Non, je ne regrette rien (Supernatural - 11x14)-ggVPxtw8qFc.opus
+243:Mood/Rockish/Supernatural/Electric Light Orchesta - Long Black Road (Supernatural 10x10 - The Road So Far)-ZGLHUpUdrM0.m4a
+244:Mood/Rockish/Supernatural/Five Finger Death Punch - Hell to Pay (Supernatural - 11x07)-TgNmS7NQ0Cs.m4a
+245:Mood/Rockish/Supernatural/FOALS - What Went Down (Supernatural - Season 11 Promo Music)-uqegsWMJNbs.opus
+246:Mood/Rockish/Supernatural/Focus - Hocus Pocus _ Supernatural - 3x13-c-j7LzK8KUo.opus
+247:Mood/Rockish/Supernatural/Foghat - Slow Ride (Supernatural - 7x01 - The Road So Far)-yXdjlyiux4A.opus
+248:Mood/Rockish/Supernatural/Foreigner - Cold As Ice (Supernatural - 2x06)-aUuArvZgvpM.opus
+249:Mood/Rockish/Supernatural/Foreigner - Hot Blooded (Supernatural - 1x02)-67ppBYGAJcs.m4a
+250:Mood/Rockish/Supernatural/Foreigner - I Want to Know What Love Is (Supernatural - 9x05)-eOOlbOH5kQs.opus
+251:Mood/Rockish/Supernatural/Foreigner - Long Long Away from Home _ Supernatural - 4x13-rEYn5yU2xVk.opus
+252:Mood/Rockish/Supernatural/Frankie Laine - On the Sunny Side of the Street _ Supernatural - 8x13-GIHx9bi-EA4.opus
+253:Mood/Rockish/Supernatural/Frankie Valli - The Sun Ain't Gonna Shine (Supernatural - 9x18)--p-ltik8dwk.opus
+254:Mood/Rockish/Supernatural/Free - All Right Now _ Supernatural - 1x06-lgAvETRxljo.opus
+255:Mood/Rockish/Supernatural/George Thorogood & the Destroyers - Who Do You Love (Supernatural 9x01 - The Road So Far)-204lyGiAkyc.opus
+256:Mood/Rockish/Supernatural/Gerry & the Pacemakers - Don't Let the Sun Catch You Crying (Supernatural - 11x23)-IYATYYR2LQ4.opus
+257:Mood/Rockish/Supernatural/Ginger - Gasoline (Supernatural - 1x01)-mM4A-FGdD8o.opus
+258:Mood/Rockish/Supernatural/Gordon Lightfoot - Sundown (Supernatural - 10x05)-UsBz9UKFkeU.opus
+259:Mood/Rockish/Supernatural/Grand Funk Railroad - Bad Time _ Supernatural - 1x19-BthumtABvjc.opus
+260:Mood/Rockish/Supernatural/Hal David & John Cacavas - Has Anybody Seen Kris Kringle (Supernatural - 11x10)-6UUOdcURrVw.opus
+261:Mood/Rockish/Supernatural/Halestorm - I Am the Fire (Supernatural - 13x10 - The Road So Far)-c6ylBN_Z1RY.opus
+262:Mood/Rockish/Supernatural/Harry Chapin - Cat's in the Cradle (Supernatural - 13x21)-cfUd0AXv-b8.opus
+263:Mood/Rockish/Supernatural/Headwater - Only a Matter of Time (Supernatural - 10x12)-LN7M8-cW1fc.opus
+264:Mood/Rockish/Supernatural/Heart - Lost Angel (Supernatural - 12x02)-VdJTWDgjNCc.m4a
+265:Mood/Rockish/Supernatural/Hot Chocolate - You Sexy Thing (Supernatural - 6x19)-o0Usl_94AUo.opus
+266:Mood/Rockish/Supernatural/Hound Dog Taylor - Ain't Git Nobody (Supernatural - 5x09)-Q3hiaXozH-U.opus
+267:Mood/Rockish/Supernatural/Huey Lewis & The News - Back in Time _ Supernatural - 3x11-5O5Ww7RHDvg.opus
+268:Mood/Rockish/Supernatural/I'll Just Wait Here Then (Supernatural - 10x05)-VgttKeZ1xvY.opus
+269:Mood/Rockish/Supernatural/James Gang - Ashes The Rain and I (Supernatural - 10x12)-6N_lYVgMg7U.opus
+270:Mood/Rockish/Supernatural/James Gang - Walk Away (Supernatural - 2x15)-l_2XPQXKaPk.opus
+271:Mood/Rockish/Supernatural/Jamie Dunlap - Down On Love (Supernatural - 2x13)-Wruo22EeJPI.m4a
+272:Mood/Rockish/Supernatural/Jefferson Airplane - White Rabbit (Supernatural - 2x09)-sZWU3kDnsgQ.opus
+273:Mood/Rockish/Supernatural/Jefferson Starships - Miracles (Supernatural - 6x19)-vUWvhQCG1hI.opus
+274:Mood/Rockish/Supernatural/Jen Titus - O' Death _ Supernatural - 5x21--aQBdDqQWn4.opus
+275:Mood/Rockish/Supernatural/Jethro Tull - A New Day Yesterday (Supernatural - 6x12)-O0eEoP5TqKk.m4a
+276:Mood/Rockish/Supernatural/Jethro Tull - Locomotive Breath _ Supernatural - 8x01 (The Road So Far)-GGihzliykX4.opus
+277:Mood/Rockish/Supernatural/Jim Wolfe - All I Know (Supernatural - 10x08)-0juRfrPX6NU.opus
+278:Mood/Rockish/Supernatural/Joan Jett & The Blackhearts - Real Wild Child (Supernatural - 12x16)-NgumFswzLeI.m4a
+279:Mood/Rockish/Supernatural/Joe Walsh - Turn to Stone _ Supernatural - 1x22-IDhqKv6WuGk.opus
+280:Mood/Rockish/Supernatural/Joey Ramone - What a Wonderful World (Supernatural - 2x20)-HVeYrnc28qE.opus
+281:Mood/Rockish/Supernatural/Johnny Mathis - Wonderful! Wonderful! (Supernatural - 11x11)-N-cBXn-ng5Y.m4a
+282:Mood/Rockish/Supernatural/Journey - Stone in Love (Supernatural - 9x07)-LZM5_zs-Vik.opus
+283:Mood/Rockish/Supernatural/Journey - Wheel in the Sky (Supernatural - 2x03 - The Road So Far)-YehxIUAcDc4.opus
+284:Mood/Rockish/Supernatural/Judy Collins - Someday Soon (Supernatural - 11x04)-8wZGHZY9UMM.opus
+285:Mood/Rockish/Supernatural/Kansas - Carry On My Wayward Son _ Supernatural - The Road So Far-nP3aeuzdHBY.opus
+286:Mood/Rockish/Supernatural/Katrina & the Waves - Walking on Sunshine (Supernatural - 7x20)-g2VCUqAIoyY.m4a
+287:Mood/Rockish/Supernatural/Kenny Rogers - The Gambler (Supernatural - 6x04)-zfBaLdwCg9c.opus
+288:Mood/Rockish/Supernatural/Leon Bridges - Shine (Supernatural - 11x12)-hgU7MokIJ-Y.opus
+289:Mood/Rockish/Supernatural/Lon Rogers & the Soul Blenders - Too Good to be True (Supernatural - 15x01)-WtPWcDmQFFI.m4a
+290:Mood/Rockish/Supernatural/Louden Swain - Pop Tart Heart (Supernatural - 15x12)-MOTH7orYVwg.opus
+291:Mood/Rockish/Supernatural/Lynyrd Skynyrd - Down South Jukin' (Supernatural - 7x04)-BKxDMijEsdI.opus
+292:Mood/Rockish/Supernatural/Lynyrd Skynyrd - Simple Man _ Supernatural - 5x03-Yf_8rJGzleM.opus
+293:Mood/Rockish/Supernatural/M.I.A. - Bad Girls (Supernatural - 11x04)-GExbadcME0o.opus
+294:Mood/Rockish/Supernatural/Marty Robbins - I'll Go On Alone (Supernatural - 14x06)-xvu2ckRX3xI.opus
+295:Mood/Rockish/Supernatural/Melergy - Who (Supernatural - 11x02)-IImNGFgn4Kw.m4a
+296:Mood/Rockish/Supernatural/Metallica - Nothing Else Matters (Supernatural - 13x01 - The Road So Far)-auRyNr1jne8.opus
+297:Mood/Rockish/Supernatural/Milo Greene - What's the Matter _ Supernatural - 8x04-T0CCYsjByH4.opus
+298:Mood/Rockish/Supernatural/Molly Hatchet - Flirtin' With Disaster (Supernatural - 6x07)-CeoQkDO5Jww.opus
+299:Mood/Rockish/Supernatural/Molly Hatchet - The Creeper (Supernatural - 5x13)-ZNnfGGXApYk.opus
+300:Mood/Rockish/Supernatural/Motorhead - God Was Never On Your Side (Supernatural - 14x20)-umPEvT7n6wg.opus
+301:Mood/Rockish/Supernatural/Muse - Supermassive Black Hole (Supernatural - 2x10)-b3krHEVTMOE.m4a
+302:Mood/Rockish/Supernatural/Nancy Sinatra - These Boots Are Made for Walkin' (Supernatural - 7x01)-fmjY52-GnFo.opus
+303:Mood/Rockish/Supernatural/Nazareth - Love Hurts (Supernatural - 6x14)-KUaPgq9Gvrs.opus
+304:Mood/Rockish/Supernatural/Nichion Sounds Library - Load Rage _ Supernatural - 1x04-ahPEUO1FIgE.opus
+305:Mood/Rockish/Supernatural/Nine Days - Just as Through With You (Supernatural - 4x07)-iM8isE8gBKg.opus
+306:Mood/Rockish/Supernatural/Norman Greenbaum - Spirit in the Sky _ Supernatural - 5x02-dELsGKl6RvY.opus
+307:Mood/Rockish/Supernatural/Omar & The Howlers - Hard Times in The Land of Plenty _ Supernatural - 15x09 (The Road So Far)-q4RLAXs-hkA.opus
+308:Mood/Rockish/Supernatural/Orchestra Edmundo Ros - Brazil (Supernatural - 11x15)-bqrho_QHGUI.opus
+309:Mood/Rockish/Supernatural/Oscar Isacc & Marcus Mumford - Fare Thee Well (Supernatural - 11x20)-pZbiMxuUXMk.opus
+310:Mood/Rockish/Supernatural/Ozzy Osbourne - Road to Nowhere _ Supernatural - 1x18-fQvGqDdu42A.opus
+311:Mood/Rockish/Supernatural/Pat Benatar - Heartbreaker (Supernatural 10x01 - The Road So Far)-ZYLGdRP5JME.opus
+312:Mood/Rockish/Supernatural/Patty Griffin - Go Wherever You Wanna Go (Supernatural - 10x22)-tZ2nelKzpUA.opus
+313:Mood/Rockish/Supernatural/Paul Lenart - Shakin' the Blues (Supernatural - 10x17)-9s2q6NJUQyI.opus
+314:Mood/Rockish/Supernatural/Poison - Every Rose Has It's Thorn _ Supernatural - 3x09-YyuujlV_r_Q.opus
+315:Mood/Rockish/Supernatural/Queensryche - Silent Lucidity (Supernatural - 2x17)-kORnO8qt1F8.opus
+316:Mood/Rockish/Supernatural/Radio Company - Sounds of Someday (Supernatural - 15x04)-ei2bAlDQiKU.opus
+317:Mood/Rockish/Supernatural/Raphael Lake & Royal Baggs - Devil's Gonna Come (Supernatural - ''Final Season'' Promo Music)-k8TvxwcrBbA.opus
+318:Mood/Rockish/Supernatural/RATT - Round and Round (Supernatural - 1x03)-U3YxdTVoSaI.m4a
+319:Mood/Rockish/Supernatural/REO Speedwagon - Back On the Road Again (Supernatural - 2x14)-IVoUK5TEGTw.opus
+320:Mood/Rockish/Supernatural/REO Speedwagon - Can't Fight This Feeling (Supernatural - 2x05)-p8f6Thr2oTw.opus
+321:Mood/Rockish/Supernatural/Reo Speedwagon - Ridin' the Storm Out (Supernatural - 7x11 - The Road So Far)-CvpR0MMNLvg.opus
+322:Mood/Rockish/Supernatural/Right Said Fred - I'm Too Sexy (Supernatural - 10x01)-E5vXrY-L6DE.opus
+323:Mood/Rockish/Supernatural/Rob Benedict - Fare Thee Well (Supernatural - 11x20)-qxt9S39RbiA.opus
+324:Mood/Rockish/Supernatural/Robbi Spencer - I Love to See You Happy (Supernatural - 5x08)-0ZYlKTLr4wQ.opus
+325:Mood/Rockish/Supernatural/Robin Trower - Day of the Eagle (Supernatural - 11x22)-aG-TVFOaUnc.m4a
+326:Mood/Rockish/Supernatural/Royal Blood - Figure It Out (Supernatural - Season 10 Promo Music)-1sPwTeUGcIE.m4a
+327:Mood/Rockish/Supernatural/Santana - Oye Como Va _ Supernatural - 5x10-6oUrrF9vQKI.opus
+328:Mood/Rockish/Supernatural/Savage Garden - I Want You (Supernatural - 15x13)-bWKOZx6_3k4.opus
+329:Mood/Rockish/Supernatural/Scars On 45 - Loudest Alarm (Supernatural - 6x21)-pnmlcICPOWI.opus
+330:Mood/Rockish/Supernatural/Screaming Trees - Look At You (Supernatural - 2x17)-8uFPKtaok3M.opus
+331:Mood/Rockish/Supernatural/Social Distortion - Bad Luck (Supernatural - 9x09)-DLoNjBleWl8.opus
+332:Mood/Rockish/Supernatural/Sonny Ellis - I Got More Bills Than I Got Pay (Supernatural - 5x12)-pr7La_c3OrI.opus
+333:Mood/Rockish/Supernatural/Sonoton Music - That Old Familiar Pain _ Supernatural - 8x09-3Kk1u2yDGCY.opus
+334:Mood/Rockish/Supernatural/Soundgarden - Fell On Black Days _ Supernatural - 8x06-vOfMKFuPjoU.opus
+335:Mood/Rockish/Supernatural/Spinal Tap - Stonehenge (Supernatural - 2x05)-DuSBAzy-1Ow.opus
+336:Mood/Rockish/Supernatural/Steppenwolf - Born to Be Wild (Supernatural - 7x23)-34QvqL4usJQ.opus
+337:Mood/Rockish/Supernatural/Steppenwolf - It's Never Too Late (Supernatural - 13x05)-fXiHgGYLTuQ.opus
+338:Mood/Rockish/Supernatural/Steve Carlton - Night Time _ Supernatural - 1x19-HGVAbmteSqA.opus
+339:Mood/Rockish/Supernatural/Steve Earle - I Feel Alright _ Supernatural - 8x09-4QEbUbNtXBA.opus
+340:Mood/Rockish/Supernatural/Steve Plunkett - Too Hot to Stop (Supernatural - 5x17)--0h07P6y0Ow.opus
+341:Mood/Rockish/Supernatural/Styx - Man in the Wilderness _ Supernatural - 8x01-l2TfAAzvt9s.opus
+342:Mood/Rockish/Supernatural/Styx - Renegade (Supernatural - 2x12)-Ay5_TJNqVuw.m4a
+343:Mood/Rockish/Supernatural/Survivor - Eye of the Tiger _ Supernatural - 4x06-iVxJH3onTcY.opus
+344:Mood/Rockish/Supernatural/Tavares - Heaven Must Be Missing an Angel (Supernatural - 11x10)-Epa_ZQcqGWU.opus
+345:Mood/Rockish/Supernatural/Taylor Swift - Shake It Off (Supernatural - 10x12)-WWzhq0OmQQw.m4a
+346:Mood/Rockish/Supernatural/Ted Nugent - Stranglehold (Supernatural - 2x01 - The Road So Far)-OusiAPCa0_0.opus
+347:Mood/Rockish/Supernatural/Tesla - Modern Day Cowboy (Supernatural - 11x15)-Vtp_C-5F0qE.opus
+348:Mood/Rockish/Supernatural/The Allman Brothers Band - Midnight Rider (Supernatural - 11x16)-NcSHEjmUeqI.opus
+349:Mood/Rockish/Supernatural/The Animals - House of the Rising Sun (Supernatural - 2x16)-8LbS_ydSlBQ.m4a
+350:Mood/Rockish/Supernatural/The Animals - We Gotta Get Out of This Place _ Supernatural - 8x07-9EMIyaxdH4s.m4a
+351:Mood/Rockish/Supernatural/The Avett Brothers - Head Full Of Doubt_Road Full Of Promise (Supernatural - 10x13)-0Opcg0QQLjE.opus
+352:Mood/Rockish/Supernatural/The Band - The Weight (Supernatural - 10x08)-FatweS4p6Xc.opus
+353:Mood/Rockish/Supernatural/The Biggest Band in the World - Automatic (Supernatural - 15x13)-PZCSnC6mA0E.opus
+354:Mood/Rockish/Supernatural/The Budos Band - Golden Dunes (Supernatural - 12x04)--WeaPIdxGy8.opus
+355:Mood/Rockish/Supernatural/The Bus Boys - Cleanin' Up the Town _ Supernatural - 15x14-OB6SiHgzW-0.m4a
+356:Mood/Rockish/Supernatural/The Chambers Brothers - Time Has Come Today (Supernatural - 2x02 - The Road So Far)-ZlWdMC9mFhI.opus
+357:Mood/Rockish/Supernatural/The Chantels - Look in My Eyes (Supernatural - 13x11)-WTwhv4i2DpY.m4a
+358:Mood/Rockish/Supernatural/The Contours - Do You Love Me (Supernatural - 5x04)-pw6CPUksSgw.m4a
+359:Mood/Rockish/Supernatural/The Doobie Brothers - Black Water (Supernatural - 7x02)-yjbK6k8iPwQ.opus
+360:Mood/Rockish/Supernatural/The Doobie Brothers - China Grove _ Supernatural - 8x11-W0NWYSLgauU.opus
+361:Mood/Rockish/Supernatural/The Doobie Brothers - Rockin' Down the Highway (Supernatural - 9x02)-v1i63b3j_Ng.opus
+362:Mood/Rockish/Supernatural/The Doors - The Crystal Ship (Supernatural - 2x14)-Uz829H9lWGc.opus
+363:Mood/Rockish/Supernatural/The Everly Brothers - Wake Up Little Susie (Supernatural - 7x17)-f8_gBbcZHQI.opus
+364:Mood/Rockish/Supernatural/The Goo Goo Dolls - Two Days in February (Supernatural - 7x03)-o51v-ekY-mE.m4a
+365:Mood/Rockish/Supernatural/The Guess Who - No Time (Supernatural - 14x11)-DkpDMeXBroU.m4a
+366:Mood/Rockish/Supernatural/The James Hunter Six - Heartbreak (Supernatural - 11x13)-CEdekvy_maM.m4a
+367:Mood/Rockish/Supernatural/The Kinks - A Well Respected Man _ Supernatural - 4x17-kThyNIcstnE.opus
+368:Mood/Rockish/Supernatural/The Little Willies - Diesel Smoke, Dangerous Curves (Supernatural - 12x01)-prYn3R2Et-Y.m4a
+369:Mood/Rockish/Supernatural/The Living Daylights - Gasoline _ Supernatural - 1x01-kUaXlLOfPms.opus
+370:Mood/Rockish/Supernatural/The Marshall Tucker Band - Searchin for a Rainbow (Supernatural - 14x10)-WMIakrO2EJ8.opus
+371:Mood/Rockish/Supernatural/The Ozark Mountain Daredevils - If You Wanna Get to Heaven (Supernatural - 9x19)-ANneYDLENAs.opus
+372:Mood/Rockish/Supernatural/The Pretty Reckless - Make Me Wanna Die (Supernatural - 12x16)-PUxY1hI4fgg.opus
+373:Mood/Rockish/Supernatural/The Reverend Horton Heat - The Devil's Chasing Me _ Supernatural - 8x02-MM9pxPkY3ek.opus
+374:Mood/Rockish/Supernatural/The Road So Far (Supernatural - 10x05)-CweogVcTbtE.opus
+375:Mood/Rockish/Supernatural/The Rubens - I'll Surely Die _ Supernatural - 8x18-tn7qZhoGiqA.opus
+376:Mood/Rockish/Supernatural/The Shirelles - Will You Love Me Tomorrow (Supernatural - 11x11)-HYddC4zuztE.opus
+377:Mood/Rockish/Supernatural/The Stooges - Down On the Street (Supernatural - 2x17)-1InxwLPtFFY.opus
+378:Mood/Rockish/Supernatural/The Undisputed Truth - Smiling Faces Somethimes (Supernatural - 6x21)-lxQ2dEUJHjc.opus
+379:Mood/Rockish/Supernatural/The Velvet Underground - Heroin (Supernatural - 9x16)-mK5_xJXqx9c.opus
+380:Mood/Rockish/Supernatural/The Who - Behind Blue Eyes (Supernatural - 10x18)-TvyTdIniMTQ.opus
+381:Mood/Rockish/Supernatural/The Who - Don't Get Fooled Again (Supernatural - 5x08)-BYTEui8OZEw.opus
+382:Mood/Rockish/Supernatural/The Yardbirds - Turn Into Earth (Supernatural - 7x17)-YnhQ0bzuZF8.m4a
+383:Mood/Rockish/Supernatural/Thin Lizzy - The Boys Are Back in Town (Supernatural - 10x18)-mZAA0gyd7WM.opus
+384:Mood/Rockish/Supernatural/Todd Rundgren - I Saw the Light (Supernatural - 10x19)-EmuY-_0tMIw.opus
+385:Mood/Rockish/Supernatural/Tom Jones - It's Not Unusual (Supernatural - 11x01)-UmLFHDayYsg.opus
+386:Mood/Rockish/Supernatural/TRAFFIC - Dear Mr. Fantasy (Supernatural - 7x11)-7VYyqZPUXzM.m4a
+387:Mood/Rockish/Supernatural/Trini Lopez - Crooked Little Man (Supernatural - 11x21)-frjluiw45V4.opus
+388:Mood/Rockish/Supernatural/Triumph - Fight the Good Fight _ Supernatural - 1x22 (The Road So Far)-j7R6yBqmRMM.opus
+389:Mood/Rockish/Supernatural/Urge Overkill - Girl You'll Be a Woman Soon (Supernatural - 11x06)-DsCS5V0Ysq4.opus
+390:Mood/Rockish/Supernatural/War - Why Can't We Be Friends (Supernatural - 7x22)-rgFw9BQ-Ic8.opus
+391:Mood/Rockish/Supernatural/Warrant - Cherry Pie (Supernatural - 10x02)-lTXG1pgLrIA.opus
+392:Mood/Rockish/Supernatural/Warren Zevon - Prison Grove (Supernatural - 11x11)-cAzWvOKvgQA.opus
+393:Mood/Rockish/Supernatural/Warren Zevon - Werewolves of London (Supernatural - 15x10)-2mTRBT_USh8.opus
+394:Mood/Rockish/Supernatural/Wershly Arms - Trouble (Supernatural - ''Trouble'' Trailer Music)-JrMYQGBnzL4.opus
+395:Mood/Rockish/Supernatural/Willie Nelson - Blue Eyes Crying in the Rain (Supernatural - 10x20)-oGQX2ymMoAA.opus
+396:Mood/Rockish/Supernatural/Willie Nelson & B.B. King - Night Life (Supernatural - 11x16)-LZnYm2ilkbo.opus
+397:Mood/Rockish/Supernatural/Wishbone Ash - Changing Tracks (Supernatural 11x10 - The Road So Far)-oUeC9y6qCpk.opus
+playlist_end
