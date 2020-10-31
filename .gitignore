@@ -30,6 +30,8 @@
 !.config/newsboat/*
 .config/newsboat/urls
 !.config/nvim/init.vim
+!.config/nvim/UltiSnips
+!.config/nvim/UltiSnips/*
 !.config/polybar/*
 !.config/ranger/*
 !.config/sxhkd/*
