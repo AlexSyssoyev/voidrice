@@ -22,7 +22,7 @@
 !.config/i3/*
 !.config/i3blocks/*
 !.config/lf/*
-!.config/mpd/*
+!.config/mpd/mpd.conf
 !.config/mpv/input.conf
 !.config/mpv/scripts/modules.lua
 !.config/mpv/scripts/mpvSockets
