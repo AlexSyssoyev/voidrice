@@ -6,6 +6,7 @@ ping -q -c 1 example.org > /dev/null || exit
 pacman -Syyuw --noconfirm || su kredik -c 'notify-send -t 3000 "Error descargando los paquetes.
 
 Revise su conexión a internet, si pacman esta funcionando ya, o intente una actualización manual para ver los errores."'
+
 pkill -RTMIN+8 "${STATUSBAR:-dwmblocks}"
 
 if pacman -Qu | grep -v "\[ignored\]"
