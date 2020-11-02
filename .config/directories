@@ -12,3 +12,4 @@ mn  /mnt
 pp  ${XDG_PICTURES_DIR:-$HOME/Pictures}
 sc  $HOME/.local/bin
 vv  ${XDG_VIDEOS_DIR:-$HOME/Videos}
+vsn $HOME/.config/nvim/UltiSnips
