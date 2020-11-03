@@ -51,6 +51,10 @@ set clipboard+=unnamedplus
 	set encoding=utf-8
 	set number relativenumber
 	inoremap <C-l> <c-g>u<Esc>[s1z=`]a<c-g>u
+
+" Center document when insert mode
+	autocmd InsertEnter * norm zz
+
 " Enable autocompletion:
 	set wildmode=longest,list,full
 " Disables automatic commenting on newline:
