@@ -3,3 +3,11 @@ priority -60
 snippet hoy "Month DD, YYYY" w
 `!v strftime("%d %b, %Y")`
 endsnippet
+
+snippet rss "Rss feed"
+https://www.youtube.com/feeds/videos.xml?channel_id=$1 "${2:Tag}" "!hidden" "${3:channel name}"$0
+endsnippet
+
+snippet rssquery "Query for rss"
+"query:░░░░${1:VisibleName}░░░░:tags # \"${2:tag}\""
+endsnippet

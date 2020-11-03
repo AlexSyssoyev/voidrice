@@ -250,4 +250,24 @@ snippet und "Underline"
 \underline{$1} $0
 endsnippet
 
+snippet template "Basic template" b
+\documentclass[a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
+\usepackage[español]{babel}
+\usepackage{amsmath, amssymb}
+
+\begin{document}
+	$0
+\end{document}
+endsnippet
+
+snippet mti "Math"
+\($1\) $0
+endsnippet
+snippet mtp "Math in paragraph"
+\[$1\] $0
+endsnippet
 # vim:ft=snippets:
