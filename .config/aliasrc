@@ -37,6 +37,7 @@ alias \
 	xr="sudo xbps-remove -R" \
 	xq="xbps-query" \
 	z="zathura" \
+	dockhack="sudo docker run -it hackersploit/bugbountytoolkit /bin/bash" \
 	pusho="git add . && git commit -m 'auto push' && git push origin master"
 
 alias \
