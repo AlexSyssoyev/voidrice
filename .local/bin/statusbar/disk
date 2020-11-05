@@ -17,8 +17,15 @@ esac
 case "$location" in
 	"/home"* ) icon="🏠" ;;
 	"/mnt"* ) icon="💾" ;;
+<<<<<<< HEAD
 	"/dev/sda6"* ) icon="💾" ;;
 	*) icon="🖥";;
 esac
 
 printf "%s%s\n" "$icon" "$(df -h "$location" | awk ' /[0-9]/ {print $3 "/" $2}')"
+=======
+	*) icon="🖥";;
+esac
+
+printf "%s: %s\n" "$icon" "$(df -h "$location" | awk ' /[0-9]/ {print $3 "/" $2}')"
+>>>>>>> a801ddcbfcf1c0fd01a0c06975571e56c51b077b

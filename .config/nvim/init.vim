@@ -1,4 +1,5 @@
 let mapleader =","
+
 if ! filereadable(system('echo -n "${XDG_CONFIG_HOME:-$HOME/.config}/nvim/autoload/plug.vim"'))
 	echo "Downloading junegunn/vim-plug to manage plugins..."
 	silent !mkdir -p ${XDG_CONFIG_HOME:-$HOME/.config}/nvim/autoload/
@@ -43,8 +44,9 @@ set nohlsearch
 set clipboard+=unnamedplus
 
 " Basics
-	nnoremap c "_c
 	let g:vimwiki_table_mappings = 0
+" Some basics:
+	nnoremap c "_c
 	set nocompatible
 	filetype plugin on
 	syntax on
@@ -67,6 +69,7 @@ set clipboard+=unnamedplus
 	map <leader>o :setlocal spell! spelllang=es<CR>
 " Splits open at the bottom and right, which is non-retarded, unlike vim defaults.
 	set splitbelow splitright
+
 " Nerd tree
 	map <leader>n :NERDTreeToggle<CR>
 	autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
@@ -129,5 +132,3 @@ set clipboard+=unnamedplus
 if &diff
     highlight! link DiffText MatchParen
 endif
-
-" use my custom folder, markdown syntax and custom extension

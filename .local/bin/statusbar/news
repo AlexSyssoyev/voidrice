@@ -4,7 +4,11 @@
 # When clicked, brings up `newsboat`.
 
 case $BLOCK_BUTTON in
+<<<<<<< HEAD
 	1) setsid -f "$TERMINAL" -e newsboat ;;
+=======
+        1) setsid "$TERMINAL" -e newsboat ;;
+>>>>>>> a801ddcbfcf1c0fd01a0c06975571e56c51b077b
 	2) setsid -f newsup >/dev/null exit ;;
         3) notify-send "📰 News module" "\- Shows unread news items
 - Shows 🔃 if updating with \`newsup\`
@@ -14,5 +18,8 @@ case $BLOCK_BUTTON in
 	6) "$TERMINAL" -e "$EDITOR" "$0" ;;
 esac
 
+<<<<<<< HEAD
  #cat /tmp/newsupdate 2>/dev/null || echo "$(newsboat -x print-unread | awk '{ if($1>0) print "📰" $1}')$(cat "${XDG_CONFIG_HOME:-$HOME/.config}"/newsboat/.update 2>/dev/null)"
+=======
+>>>>>>> a801ddcbfcf1c0fd01a0c06975571e56c51b077b
  cat /tmp/newsupdate 2>/dev/null || echo "$(newsboat -x print-unread | awk '{ if($1>0) print "📰" $1}')$(cat "${XDG_CONFIG_HOME:-$HOME/.config}"/newsboat/.update 2>/dev/null)"

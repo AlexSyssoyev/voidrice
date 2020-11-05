@@ -9,4 +9,8 @@ case $BLOCK_BUTTON in
 	6) "$TERMINAL" -e "$EDITOR" "$0" ;;
 esac
 
+<<<<<<< HEAD
 sensors | awk '/temp1/ {print "🌡"$2}'
+=======
+sensors | awk '/Core 0/ {print "🌡" $3}'
+>>>>>>> a801ddcbfcf1c0fd01a0c06975571e56c51b077b

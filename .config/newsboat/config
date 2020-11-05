@@ -31,7 +31,7 @@ color info red black bold
 color article white default bold
 
 browser linkhandler
-macro m set browser "tsp mpv --ytdl-format=22 --ytdl-raw-options=no-cache-dir= %u" ; open-in-browser-and-mark-read ; set browser "w3m %u"
+macro m set browser "tsp mpv --ytdl-format=best --ytdl-raw-options=no-cache-dir= %u" ; open-in-browser-and-mark-read ; set browser "w3m %u"
 macro , open-in-browser
 macro t set browser "qndl" ; open-in-browser ; set browser linkhandler
 macro a set browser "tsp youtube-dl --add-metadata -xic -f bestaudio/best" ; open-in-browser ; set browser linkhandler
