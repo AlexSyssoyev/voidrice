@@ -9,4 +9,4 @@ duration=$(youtube-dl --get-duration "$url")
 [ ! "$title" ] && notify-send -t 3000 "Error or video not available" && exit
 notify-send -t 3000 "$title ----- $duration" ;
 
-mpv --ytdl-format='bestvideo[height<=?720]+bestaudio/best' --ytdl-raw-options=no-cache-dir= "$url" || notify-send -t 3000 "Error" >/dev/null
+mpv --ytdl-format=best --ytdl-raw-options=no-cache-dir= "$url" || notify-send -t 3000 "Error" >/dev/null

@@ -9,7 +9,7 @@ alias \
 	mv="mv -iv" \
 	rm="rm -vI" \
 	mkd="mkdir -pv" \
-	yt="youtube-dl --add-metadata -i" \
+	yt="youtube-dlc --add-metadata -i" \
 	yta="yt -x -f bestaudio/best --download-archive downloaded.txt --no-overwrites" \
 	dpi="xrandr --output VGA-0 --scale 1x1 --panning 0x0 --dpi 96 --mode 1920x1080" \
 	ffmpeg="ffmpeg -hide_banner"
