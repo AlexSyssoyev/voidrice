@@ -1,34 +1,17 @@
 #!/bin/sh
 
 # Syncs repositories and downloads updates, meant to be run as a cronjob.
-<<<<<<< HEAD
 ping -q -c 1 example.org > /dev/null || exit
 #su kredik -c 'notify-send -t 3000 "📦 Sincronización del repositorio" "Buscando actualizaciones de los paquetes..."'
 pacman -Syyuw --noconfirm || su kredik -c 'notify-send -t 3000 "Error descargando los paquetes.
 
 Revise su conexión a internet, si pacman esta funcionando ya, o intente una actualización manual para ver los errores."'
 
-=======
-
-ping -q -c 1 example.org > /dev/null || exit
-
-notify-send "📦 Repository Sync" "Checking for package updates..."
-
-sudo pacman -Syyuw --noconfirm || notify-send "Error downloading updates.
-
-Check your internet connection, if pacman is already running, or run update manually to see errors."
->>>>>>> a801ddcbfcf1c0fd01a0c06975571e56c51b077b
 pkill -RTMIN+8 "${STATUSBAR:-dwmblocks}"
 
 if pacman -Qu | grep -v "\[ignored\]"
 then
-<<<<<<< HEAD
 	su kredik -c 'notify-send -t 3000 "🎁 Sincronización del repositorio" "Actualizaciones disponibles. Presionar en el icono de la  barra de estado (📦) para actualizar."'
-#else
-#su kredik -c 'notify-send -t 3000 "📦 Sincronización del repositorio"  "Sincronización completa. No hay nuevos paquetes para actualizar."'
-=======
-	notify-send "🎁 Repository Sync" "Updates available. Click statusbar icon (📦) for update."
 else
-	notify-send "📦 Repository Sync"  "Sync complete. No new packages for update."
->>>>>>> a801ddcbfcf1c0fd01a0c06975571e56c51b077b
+	su kredik -c 'notify-send "📦 Sincronización del repositorio"  "Sincronización completa. No hay nuevas actualizaciones."'
 fi

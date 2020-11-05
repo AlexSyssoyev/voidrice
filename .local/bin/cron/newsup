@@ -5,11 +5,6 @@
 
 ping -q -c 1 example.org > /dev/null || exit
 
-<<<<<<< HEAD
-#/usr/bin/notify-send -t 3000 "📰 Actualizando RSS Feeds..."
-=======
-/usr/bin/notify-send "📰 Updating RSS feeds..."
->>>>>>> a801ddcbfcf1c0fd01a0c06975571e56c51b077b
 
 pgrep -f newsboat$ && /usr/bin/xdotool key --window "$(/usr/bin/xdotool search --name newsboat)" R && exit
 
@@ -18,8 +13,4 @@ pkill -RTMIN+6 "${STATUSBAR:-dwmblocks}"
 /usr/bin/newsboat -x reload
 rm -f /tmp/newsupdate
 pkill -RTMIN+6 "${STATUSBAR:-dwmblocks}"
-<<<<<<< HEAD
 /usr/bin/notify-send -t 3000 "📰 Actualización de RSS Feeds completa."
-=======
-/usr/bin/notify-send "📰 RSS feed update complete."
->>>>>>> a801ddcbfcf1c0fd01a0c06975571e56c51b077b
