@@ -12,6 +12,7 @@ alias \
 	yt="youtube-dlc --add-metadata -i" \
 	yta="yt -x -f bestaudio/best --download-archive downloaded.txt --no-overwrites" \
 	dpi="xrandr --output VGA-0 --scale 1x1 --panning 0x0 --dpi 96 --mode 1920x1080" \
+	ranbg="setbg ~/.local/src/others/wallpapers" \
 	ffmpeg="ffmpeg -hide_banner"
 	#ytp="yt -f bestaudio/best --download-archive downloaded.txt --no-overwrites -ict --yes-playlist --extract-audio "
 
