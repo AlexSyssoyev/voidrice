@@ -39,7 +39,7 @@ alias \
 	z="zathura" \
 	dockhack="sudo docker run -it hacks /bin/bash" \
 	dockrustscan="sudo docker run -it --rm --name rustscan rustscan/rustscan:1.10.0" \
-	pusho="git add . && git commit -m 'auto push' && git push origin master"
+	pusho="git add . && git commit -m '$(date '+%d %b %Y')' && git push origin master"
 
 alias \
 	magit="nvim -c MagitOnly" \
