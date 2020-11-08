@@ -37,7 +37,7 @@ alias \
 	xr="sudo xbps-remove -R" \
 	xq="xbps-query" \
 	z="zathura" \
-	dockhack="sudo docker run -it hacks /bin/bash" \
+	dockhack="sudo docker run -it --hostname krd -v $(pwd):/mnt:ro hacks /bin/bash" \
 	dockrustscan="sudo docker run -it --rm --name rustscan rustscan/rustscan:1.10.0" \
 	pusho="git add . && git commit -m '$(date '+%d %b %Y')' && git push origin master"
 
