@@ -30,7 +30,8 @@ color listfocus_unread yellow default bold
 color info red black bold
 color article white default bold
 
-browser linkhandler
+# browser linkhandler
+browser dmenuhandler
 macro m set browser "tsp mpv --ytdl-format=best --ytdl-raw-options=no-cache-dir= %u" ; open-in-browser-and-mark-read ; set browser "w3m %u"
 macro , open-in-browser
 macro t set browser "qndl" ; open-in-browser ; set browser linkhandler
