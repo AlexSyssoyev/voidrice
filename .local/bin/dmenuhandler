@@ -5,7 +5,8 @@
 feed="${1:-$(printf "%s" | xclip -o)}"
 # feed="$(xclip -o)"
 
-case "$(printf "Copy URL\\nsxiv\\nsetbg\\nPDF\\nbrowser\\nlynx\\nvim\\nmpv\\nmpv loop\\nmpv float\\nqueue download\\nqueue yt-dl\\nqueue yt-dl audio" | dmenu -i -p "Open it with?")" in
+# case "$(printf "Copy URL\\nsxiv\\nsetbg\\nPDF\\nbrowser\\nlynx\\nvim\\nmpv\\nmpv loop\\nmpv float\\nqueue download\\nqueue yt-dl\\nqueue yt-dl audio" | dmenu -i -p "Open it with?")" in
+case "$(printf "mpv\\nbrowser\\nsetbg\\nqueue yt-dl audio\\nCopy URL\\nsxiv\\nPDF\\nlynx\\nvim\\nmpv loop\\nmpv float\\nqueue download\\nqueue yt-dl" | dmenu -i -p "Open it with?")" in
 	"copy url") echo "$feed" | xclip -selection clipboard ;;
 	mpv) setsid -f mpv -quiet "$feed" >/dev/null 2>&1 ;;
 	"mpv loop") setsid -f mpv -quiet --loop "$feed" >/dev/null 2>&1 ;;
