@@ -22,6 +22,9 @@ bind-key N prev-unread
 bind-key D pb-download
 bind-key U show-urls
 bind-key x pb-delete
+unbind-key o
+unbind-key O
+bind-key o open-in-browser-and-mark-read
 
 color listnormal cyan default
 color listfocus black yellow standout bold
