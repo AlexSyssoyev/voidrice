@@ -82,21 +82,12 @@ set noshowcmd
         let NERDTreeBookmarksFile = '~/.vim' . '/NERDTreeBookmarks'
     endif
 
-<<<<<<< HEAD
-" " vimling:
-" 	nm <leader>d :call ToggleDeadKeys()<CR>
-" 	imap <leader>d <esc>:call ToggleDeadKeys()<CR>a
-" 	nm <leader>i :call ToggleIPA()<CR>
-" 	imap <leader>i <esc>:call ToggleIPA()<CR>a
-" 	nm <leader>q :call ToggleProse()<CR>
-=======
 " vimling:
-	nm <leader><leader>d :call ToggleDeadKeys()<CR>
-	imap <leader><leader>d <esc>:call ToggleDeadKeys()<CR>a
-	nm <leader><leader>i :call ToggleIPA()<CR>
-	imap <leader><leader>i <esc>:call ToggleIPA()<CR>a
-	nm <leader><leader>q :call ToggleProse()<CR>
->>>>>>> 7f7d4fcd0260ee155fc7d830ef034637e29d17cb
+	nm <leader>d :call ToggleDeadKeys()<CR>
+	imap <leader>d <esc>:call ToggleDeadKeys()<CR>a
+	nm <leader>i :call ToggleIPA()<CR>
+	imap <leader>i <esc>:call ToggleIPA()<CR>a
+	nm <leader>q :call ToggleProse()<CR>
 
 " Shortcutting split navigation, saving a keypress:
 	map <C-h> <C-w>h
@@ -106,16 +97,7 @@ set noshowcmd
 " Replace ex mode with gq
 	map Q gq
 " Check file in shellcheck:
-<<<<<<< HEAD
-	map <leader>s :!clear && shellcheck %<CR>
-=======
 	map <leader>s :!clear && shellcheck -x %<CR>
-
-" Open my bibliography file in split
-	map <leader>b :vsp<space>$BIB<CR>
-	map <leader>r :vsp<space>$REFER<CR>
-
->>>>>>> 7f7d4fcd0260ee155fc7d830ef034637e29d17cb
 " Replace all is aliased to S.
 	nnoremap S :%s//g<Left><Left>
 " Compile document, be it groff/LaTeX/markdown/etc.
@@ -141,12 +123,6 @@ set noshowcmd
 	autocmd BufRead,BufNewFile /tmp/neomutt* map ZQ :Goyo\|q!<CR>
 " Automatically deletes all trailing whitespace and newlines at end of file on save.
 	autocmd BufWritePre * %s/\s\+$//e
-<<<<<<< HEAD
-	autocmd BufWritepre * %s/\n\+\%$//e
-" When shortcut files are updated, renew bash and ranger configs with new material:
-	autocmd BufWritePost bm-files,bm-dirs !shortcuts
-" Run xrdb whenever Xdefaults or Xresources are updated.
-=======
 	autocmd BufWritePre * %s/\n\+\%$//e
 
 " When shortcut files are updated, renew bash and ranger configs with new material:
@@ -157,7 +133,6 @@ set noshowcmd
 " Recompile dwmblocks on config edit.
 	autocmd BufWritePost ~/.local/src/dwmblocks/config.h !cd ~/.local/src/dwmblocks/; sudo make install && { killall -q dwmblocks;setsid -f dwmblocks }
 
->>>>>>> 7f7d4fcd0260ee155fc7d830ef034637e29d17cb
 " Turns off highlighting on the bits of code that are changed, so the line that is changed is highlighted but the actual text that has changed stands out on the line and is readable.
 if &diff
     highlight! link DiffText MatchParen

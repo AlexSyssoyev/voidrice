@@ -1,5 +1,4 @@
 #!/bin/sh
-mousestate=$(xmodmap -pp | awk 'FNR == 5 {print $2}')
 sink=$(pactl list sinks | grep Destino | sed 's/.*\#//')
 audiostate=$(pactl list sinks | grep "Puerto Activo" | sed 's/.* //')
 volume=$(pamixer --get-volume-human | sed 's/%//')
@@ -13,6 +12,4 @@ case "$1" in
 				{ 	pactl set-sink-port $sink analog-output-headphones &&
 					pkill -RTMIN+10 dwmblocks &&
 					notify-send "Headphones selected."; } ;; #|| { killall pulseaudio; pulseaudio --start; } ;;
-
-	mouse) { [ "$mousestate" = 3 ] && xmodmap -e "pointer = 1 2 3" && notify-send "Righthand mouse selected."; }|| { xmodmap -e "pointer = 3 2 1" && notify-send "Lefthand mouse selected."; } ;;
 esac
