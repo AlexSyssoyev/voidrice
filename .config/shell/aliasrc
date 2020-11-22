@@ -39,7 +39,8 @@ alias \
 	z="zathura" \
 	dockhack="sudo docker run -it --hostname krd -v $(pwd):/mnt:ro hacks /bin/bash" \
 	dockrustscan="sudo docker run -it --rm --name rustscan rustscan/rustscan:1.10.0" \
-	pusho="git add . && git commit -m '$(date '+%d %b %Y')' && git push origin master"
+	pusho="git add . && git commit -m '$(date '+%d %b %Y')' && git push origin master"\
+	pushall="cd ~ && pusho && cd ~/.local/src/system/dwm-1 && pusho && cd ~/.local/src/system/dwmblocks && pusho && cd ~/.local/src/others/LARBS && pusho && cd ~/.local/src/others/rssfeeds && pusho && cd ~/.local/src/others/Snippetsvim && pusho && cd ~/.local/src/others/vimwiki-notes && pusho && cd"
 
 alias \
 	magit="nvim -c MagitOnly" \
