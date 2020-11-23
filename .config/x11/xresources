@@ -2,7 +2,7 @@
 *.alpha: 0.8
 
 !! Set a default font and font size as below:
-*.font: monospace:size=10
+*.font: Hack:size=10
 /* Posibilidades: Hack, DejaVuSansMono, DroidSansMono, UbuntuMono:12, NotoSansMono-Medium */
 
 /* name		dark	light */
