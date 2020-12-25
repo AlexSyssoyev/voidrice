@@ -13,6 +13,7 @@ alias \
 	yta="yt -x -f bestaudio/best --download-archive downloaded.txt --no-overwrites" \
 	dpi="xrandr --output VGA-0 --scale 1x1 --panning 0x0 --dpi 96 --mode 1920x1080" \
 	ranbg="setbg ~/.local/src/others/wallpapers" \
+	rmand="scrcpy -Sw --disable-screensaver --lock-video-orientation 0 -m640 -b1M" \
 	ffmpeg="ffmpeg -hide_banner"
 
 # Colorize commands when possible.

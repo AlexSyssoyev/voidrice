@@ -11,3 +11,5 @@ setxkbmap -option caps:super
 xmodmap -e 'keycode 135 = Super_R'
 #Change layout to latam
 setxkbmap latam
+# Turn off the caps lock if on since there is no longer a key for it.
+xset -q | grep "Caps Lock:\s*on" && xdotool key Caps_Lock
