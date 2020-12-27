@@ -2,7 +2,7 @@
 
 filter() { mpc | rev |  awk 'BEGIN {FS=" - "} {print $2" - "$1}' | rev | sed "/^volume:/d;s/\\&/&amp;/g" | sed "s/\&amp;/\&/g" | cut -c1-43| sed "s/\\[paused\\].*/⏸/g;/\\[playing\\].*/d" |  paste -sd ' ';}
 
-pidof -x sb-mpdup >/dev/null 2>&1 || mpdup >/dev/null 2>&1 &
+pidof -x sb-mpdup >/dev/null 2>&1 || sb-mpdup >/dev/null 2>&1 &
 
 case $BLOCK_BUTTON in
 	1) mpc status | filter ; setsid -f "$TERMINAL" -e ncmpcpp ;;  # right click, pause/unpause
