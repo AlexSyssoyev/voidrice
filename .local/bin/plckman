@@ -1,6 +1,6 @@
 #!/bin/sh
 
-defdelay=7200
+defdelay=28800
 actdelay="$(pluck delay)"
 case "$1" in
 	prepare) { [[ "$(pluck delay)" > 0 ]] && pluck delay 0 && pluck - allow everything && notify-send -t 3000 "Preparing pluck delay deploy for next boot..." && sleep $actdelay && notify-send -t 3000 "Pluck delay deploy done, next boot ready"; } || { notify-send -t 3000 "Pluck delay already prepared for next boot"; };;# || notify-send -t 3000 "Pluck deploy failed for next boot, fixing delay and reexecuting" && sleep $actdelay && pluck delay 0 && notify-send -t 3000 "Pluck deploy fixed, next boot ready" ;;
