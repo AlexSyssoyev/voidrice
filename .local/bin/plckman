@@ -1,5 +1,6 @@
 #!/bin/sh
 
+# defdelay=28800
 defdelay=0
 actdelay="$(pluck delay)"
 case "$1" in
