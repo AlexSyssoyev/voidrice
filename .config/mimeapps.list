@@ -5,7 +5,7 @@
 text/x-shellscript=text.desktop;
 x-scheme-handler/magnet=torrent.desktop;
 application/x-bittorrent=torrent.desktop;
-x-scheme-handler/mailto=mail.desktop;
+x-scheme-handler/mailto=mail.desktop
 text/plain=text.desktop;
 application/postscript=pdf.desktop;
 application/pdf=pdf.desktop;
@@ -18,6 +18,7 @@ x-scheme-handler/lbry=lbry.desktop
 inode/directory=file.desktop
 message/rfc822=userapp-Thunderbird-8IJYO0.desktop
 application/uproject=com.epicgames.UnrealEngineEditor.desktop
+x-scheme-handler/webcal=brave-browser.desktop
 
 [Added Associations]
 x-scheme-handler/mailto=userapp-Thunderbird-8IJYO0.desktop;

@@ -76,7 +76,7 @@ map M moveto
 map <c-n> push :mkdir<space>
 map <c-r> reload
 map <enter> shell
-map x $$f
+map x ext $f
 map X !$f
 map o &mimeopen $f
 map O $mimeopen --ask $f
