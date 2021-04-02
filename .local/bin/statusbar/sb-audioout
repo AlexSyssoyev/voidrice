@@ -1,6 +1,6 @@
 #!/bin/sh
 
-[ "$(pactl list sinks | grep "Puerto Activo" | cut -d' ' -f3)" = "analog-output-headphones" ] && echo 🎧  || echo 📢
+[ "$(pactl list sinks | grep "Active Port" | cut -d' ' -f3)" = "analog-output-headphones" ] && echo 🎧  || echo 📢
 
 case $BLOCK_BUTTON in
 	1) setsid -f "$TERMINAL" -e pavucontrol ;;

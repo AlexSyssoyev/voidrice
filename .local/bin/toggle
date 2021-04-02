@@ -1,6 +1,6 @@
 #!/bin/sh
-sink=$(pactl list sinks | grep Destino | sed 's/.*\#//')
-audiostate=$(pactl list sinks | grep "Puerto Activo" | sed 's/.* //')
+sink=$(pactl list sinks | grep "Sink #" | sed 's/.*\#//')
+audiostate=$(pactl list sinks | grep "Active Port" | sed 's/.* //')
 volume=$(pamixer --get-volume-human | sed 's/%//')
 
 
