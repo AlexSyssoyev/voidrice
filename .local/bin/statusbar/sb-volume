@@ -15,14 +15,24 @@ esac
 
 [ $(pamixer --get-mute) = true ] && echo 🔇 && exit
 
-vol="$(pamixer --get-volume)"
+vols="$(pamixer --sink alsa_output.pci-0000_00_14.2.output_analog-stereo --get-volume)"
+volh="$(pamixer --sink alsa_output.pci-0000_00_01.1.output_hdmi-stereo --get-volume)"
 
-if [ "$vol" -gt "70" ]; then
-	icon="🔊"
-elif [ "$vol" -lt "30" ]; then
-	icon="🔈"
+
+if [ "$vols" -gt "70" ]; then
+	icons="🔊"
+elif [ "$vols" -lt "30" ]; then
+	icons="🔈"
 else
-	icon="🔉"
+	icons="🔉"
 fi
 
-echo "$icon$vol%"
+if [ "$volh" -gt "70" ]; then
+	iconh="🔊"
+elif [ "$volh" -lt "30" ]; then
+	iconh="🔊"
+else
+	iconh="🔉"
+fi
+
+echo "$icons$vols% $iconh$volh%"

@@ -1,15 +1,16 @@
 #!/bin/sh
 sink=$(pactl list sinks | grep "Sink #" | sed 's/.*\#//')
-audiostate=$(pactl list sinks | grep "Active Port" | sed 's/.* //')
+audiostate=$(pactl info | sed -En 's/Default Sink: (.*)/\1/p')
+#audiostate=$(pactl list sinks | grep "Active Port" | sed 's/.* //')
 volume=$(pamixer --get-volume-human | sed 's/%//')
 
 
 case "$1" in
-	audio) { [ "$audiostate" = "analog-output-headphones" ] &&
-		pactl set-sink-port $sink analog-output-speaker &&
+	audio) { [ "$audiostate" = "alsa_output.pci-0000_00_01.1.output_hdmi-stereo" ] &&
+		pactl set-default-sink alsa_output.pci-0000_00_14.2.output_analog-stereo &&
 		pkill -RTMIN+10 dwmblocks &&
 		notify-send "Speaker selected."; } ||
-				{ 	pactl set-sink-port $sink analog-output-headphones &&
+				{ 	pactl set-default-sink alsa_output.pci-0000_00_01.1.output_hdmi-stereo &&
 					pkill -RTMIN+10 dwmblocks &&
 					notify-send "Headphones selected."; } ;; #|| { killall pulseaudio; pulseaudio --start; } ;;
 esac
