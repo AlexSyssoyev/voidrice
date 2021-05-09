@@ -6,11 +6,11 @@ volume=$(pamixer --get-volume-human | sed 's/%//')
 
 
 case "$1" in
-	audio) { [ "$audiostate" = "alsa_output.pci-0000_00_01.1.output_hdmi-stereo" ] &&
-		pactl set-default-sink alsa_output.pci-0000_00_14.2.output_analog-stereo &&
+	audio) { [ "$audiostate" = "alsa_output.pci-0000_00_01.1.hdmi-stereo" ] &&
+		pactl set-default-sink alsa_output.pci-0000_00_14.2.analog-stereo &&
 		pkill -RTMIN+10 dwmblocks &&
 		notify-send "Speaker selected."; } ||
-				{ 	pactl set-default-sink alsa_output.pci-0000_00_01.1.output_hdmi-stereo &&
+				{ 	pactl set-default-sink alsa_output.pci-0000_00_01.1.hdmi-stereo &&
 					pkill -RTMIN+10 dwmblocks &&
 					notify-send "Headphones selected."; } ;; #|| { killall pulseaudio; pulseaudio --start; } ;;
 esac

@@ -15,8 +15,8 @@ esac
 
 [ $(pamixer --get-mute) = true ] && echo 🔇 && exit
 
-vols="$(pamixer --sink alsa_output.pci-0000_00_14.2.output_analog-stereo --get-volume)"
-volh="$(pamixer --sink alsa_output.pci-0000_00_01.1.output_hdmi-stereo --get-volume)"
+vols="$(pamixer --sink alsa_output.pci-0000_00_14.2.analog-stereo --get-volume)"
+volh="$(pamixer --sink alsa_output.pci-0000_00_01.1.hdmi-stereo --get-volume)"
 
 
 if [ "$vols" -gt "70" ]; then
