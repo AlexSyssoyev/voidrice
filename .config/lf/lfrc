@@ -13,8 +13,7 @@ set hiddenfiles ".*:*.aux:*.log:*.bbl:*.bcf:*.blg:*.run.xml"
 $lf -remote "send $id set previewer ${XDG_CONFIG_HOME:-$HOME/.config}/lf/scope"
 
 # cmds/functions
-cmd open ${{
-    case $(file --mime-type $f -b) in
+cmd open ${{ case $(file --mime-type $f -b) in
     	text/troff) man ./ $f;;
 	text/html) $BROWSER $f;; image/vnd.djvu|application/pdf|application/octet-stream) setsid -f zathura $fx >/dev/null 2>&1 ;;
 	image/vnd.djvu|application/pdf|application/octet-stream) setsid -f zathura $fx >/dev/null 2>&1 ;;

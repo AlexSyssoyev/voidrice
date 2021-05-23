@@ -1,6 +1,6 @@
 #!/bin/sh
 
-[ "$(pactl info | sed -En 's/Default Sink: (.*)/\1/p')" = "alsa_output.pci-0000_00_01.1.output_hdmi-stereo" ] && echo 🎧  || echo 📢
+[ "$(pactl info | sed -En 's/Default Sink: (.*)/\1/p')" = "alsa_output.pci-0000_00_01.1.hdmi-stereo" ] && echo 🎧  || echo 📢
 
 case $BLOCK_BUTTON in
 	1) setsid -f "$TERMINAL" -e pavucontrol ;;
