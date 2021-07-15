@@ -1,6 +1,10 @@
 #!/bin/sh
 
+#<<<<<<< HEAD
 filter() { mpc | rev |  awk 'BEGIN {FS=" - "} {print $2" - "$1}' | rev | sed "/^volume:/d;s/\\&/&amp;/g" | sed "s/\&amp;/\&/g" | cut -c1-43| sed "s/\\[paused\\].*/⏸/g;/\\[playing\\].*/d" |  paste -sd ' ';}
+#=======
+#filter() { mpc | sed "/^volume:/d;s/\\&/&amp;/g;s/\\[paused\\].*/⏸/g;/\\[playing\\].*/d;/^ERROR/Q" | paste -sd ' ' -;}
+#>>>>>>> 091d7e54c5c1ed77201ce1254aa2623a2801c9f2
 
 pidof -x sb-mpdup >/dev/null 2>&1 || sb-mpdup >/dev/null 2>&1 &
 

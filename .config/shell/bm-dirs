@@ -5,6 +5,7 @@ D   ${XDG_DOWNLOAD_DIR:-$HOME/Downloads}
 d   ${XDG_DOCUMENTS_DIR:-$HOME/Documentos}
 src ${XDG_SOURCE_DIR:-$HOME/.local/src}
 dt  ${XDG_DATA_HOME:-$HOME/.local/share}
+rr  ${XDG_DATA_HOME:-$HOME/.local/src}
 h   $HOME
 m   ${XDG_MUSIC_DIR:-$HOME/Musica}
 vmw ${XDG_VIMWIKI_DIR:-$HOME/.local/src/others/vimwiki-notes}
