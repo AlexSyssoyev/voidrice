@@ -24,7 +24,7 @@ bind-key U show-urls
 bind-key x pb-delete
 unbind-key o
 unbind-key O
-bind-key o open-in-browser-and-mark-read
+ bind-key o open-in-browser-and-mark-read
 
 color listnormal cyan default
 color listfocus black yellow standout bold
@@ -34,7 +34,7 @@ color info red black bold
 color article white default bold
 
 # browser linkhandler
-browser dmenuhandler ; toggle-article-read ; open-in-browser-and-mark-read
+# browser dmenuhandler ; toggle-article-read ; open-in-browser-and-mark-read
 macro m set browser "tsp mpv --ytdl-format=best --ytdl-raw-options=no-cache-dir= %u" ; open-in-browser-and-mark-read ; set browser "w3m %u"
 macro , open-in-browser
 macro t set browser "qndl" ; open-in-browser ; set browser linkhandler
